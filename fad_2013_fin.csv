@@ -1,0 +1,2254 @@
+"country.code","objective.name","country","total.disbursed","gdp.percapita.ppp","fh.fotp"
+"AF","Agriculture","Afghanistan",47432982.89,1946.19380603184,66
+"AL","Agriculture","Albania",19545.8,10374.015637354,49
+"AO","Agriculture","Angola",99516,7736.17468163313,69
+"AM","Agriculture","Armenia",-15560.37,7776.2860430691,62
+"AZ","Agriculture","Azerbaijan",77138.1,17143.4792308476,84
+"BD","Agriculture","Bangladesh",39411955.83,2948.01488976887,54
+"BZ","Agriculture","Belize",106782,8486.89853967369,22
+"BJ","Agriculture","Benin",1352343.67,1790.75363672991,36
+"BO","Agriculture","Bolivia",894991.18,6131.06168856137,48
+"BA","Agriculture","Bosnia and Herzegovina",1948501.3,9535.5397905006,50
+"BW","Agriculture","Botswana",31426.45,15751.9022060328,41
+"BR","Agriculture","Brazil",864209.2,15037.4574693446,45
+"BF","Agriculture","Burkina Faso",52967959.51,1514.18622141102,44
+"BI","Agriculture","Burundi",2131075.31,771.71542954274,74
+"CV","Agriculture","Cabo Verde",371397,6416.317160988,27
+"KH","Agriculture","Cambodia",4395536.1,3041.07709021153,66
+"TD","Agriculture","Chad",126156.18,2088.5918355193,75
+"CO","Agriculture","Colombia",257944,12423.9230431716,54
+"CD","Agriculture","Congo, Democratic Republic of",7182674,809.217533443526,79
+"CR","Agriculture","Costa Rica",35187,13875.8563536715,18
+"DO","Agriculture","Dominican Republic",2556139.97,12186.388560558,41
+"EC","Agriculture","Ecuador",145650,10889.9891270309,62
+"EG","Agriculture","Egypt",1400481.1,11089.2111773151,68
+"SV","Agriculture","El Salvador",-548401.33,7764.14274460714,39
+"ET","Agriculture","Ethiopia",30375236.72,1380.00026448913,81
+"GE","Agriculture","Georgia",10279566.09,7176.44362639204,47
+"GH","Agriculture","Ghana",20593657.06,3992.09003884754,28
+"GT","Agriculture","Guatemala",22102223.4,7296.59257319642,60
+"GN","Agriculture","Guinea",167447.72,1253.08489968023,64
+"HT","Agriculture","Haiti",31448480.93,1703.02934940234,50
+"HN","Agriculture","Honduras",24828827.75,4592.59339927457,64
+"IN","Agriculture","India",5696693.9,5411.61554629181,39
+"ID","Agriculture","Indonesia",3957308.24,9561.12635183094,49
+"IQ","Agriculture","Iraq",14731160,14951.0776794266,69
+"JM","Agriculture","Jamaica",57579.87,8891.89154248426,17
+"JO","Agriculture","Jordan",18472425.5,11784.5316899264,68
+"KE","Agriculture","Kenya",35462980.92,2794.98131908266,57
+"KG","Agriculture","Kyrgyz Republic",13272230.44,3212.93244119764,66
+"LB","Agriculture","Lebanon",6554111.12,17173.8422362362,53
+"LR","Agriculture","Liberia",16488873.06,877.995480056484,58
+"MG","Agriculture","Madagascar",18681.74,1413.99075673979,63
+"MW","Agriculture","Malawi",14580976.25,780.003107565482,51
+"ML","Agriculture","Mali",18856245.26,1641.83452128449,37
+"MR","Agriculture","Mauritania",1172268.01,3042.83849410548,48
+"MX","Agriculture","Mexico",259247,16463.392673388,61
+"MD","Agriculture","Moldova",8863500.66,4670.35017000535,53
+"MN","Agriculture","Mongolia",470759.5,9434.9627693653,37
+"MA","Agriculture","Morocco",97782748.68,7198.16371916788,66
+"MZ","Agriculture","Mozambique",36904163.97,1105.07349763736,45
+"NA","Agriculture","Namibia",16067748.37,9583.18475656442,31
+"NP","Agriculture","Nepal",5329936.2,2244.79962842638,55
+"NI","Agriculture","Nicaragua",9703385.3,4642.69625070461,52
+"NE","Agriculture","Niger",509027.96,916.199691229844,52
+"NG","Agriculture","Nigeria",17820973.81,5602.40879552442,51
+"PK","Agriculture","Pakistan",57280172.36,4601.68894303447,64
+"PA","Agriculture","Panama",93900,19416.2320170688,50
+"PY","Agriculture","Paraguay",306203,8092.67275665026,59
+"PE","Agriculture","Peru",512916,11774.1883417434,44
+"PH","Agriculture","Philippines",3333676.23,6535.87586381471,44
+"RO","Agriculture","Romania",102521,18991.3019526057,41
+"RW","Agriculture","Rwanda",18303898.77,1473.63801166274,79
+"SN","Agriculture","Senegal",56335294.65,2241.99652516017,48
+"SL","Agriculture","Sierra Leone",1670578.62,1544.18323961817,49
+"ZA","Agriculture","South Africa",4196238.59,12506.7494760135,33
+"SS","Agriculture","South Sudan",20394504.28,2029.74531174235,62
+"LK","Agriculture","Sri Lanka",-24817.95,9738.11917417447,76
+"SD","Agriculture","Sudan, Pre-2011 Election",1763229.66,3372.97200690061,81
+"SZ","Agriculture","Swaziland",21097.42,6685.33811734131,78
+"TJ","Agriculture","Tajikistan",7937105.21,2512.24756635,80
+"TZ","Agriculture","Tanzania",38176856.4,1775.05858032604,55
+"TN","Agriculture","Tunisia",550000,11124.4960087614,53
+"TM","Agriculture","Turkmenistan",558271.3,14004.160056658,95
+"UG","Agriculture","Uganda",27957481.84,1413.15463013282,58
+"UA","Agriculture","Ukraine",2628500.6,8789.98200051008,63
+"UY","Agriculture","Uruguay",125918,19594.3695607622,26
+"UZ","Agriculture","Uzbekistan",9161,5168.28603457276,95
+"VN","Agriculture","Vietnam",1.45,5294.43986933333,84
+"YE","Agriculture","Yemen",4466466.12,3959.29188263281,76
+"ZM","Agriculture","Zambia",10631508.41,3925.46238739217,61
+"ZW","Agriculture","Zimbabwe",11826119.45,1832.08324432316,73
+"AF","Basic Education","Afghanistan",25057110.28,1946.19380603184,66
+"AO","Basic Education","Angola",985448.2,7736.17468163313,69
+"BD","Basic Education","Bangladesh",3753305,2948.01488976887,54
+"BJ","Basic Education","Benin",3306987.43,1790.75363672991,36
+"BF","Basic Education","Burkina Faso",0,1514.18622141102,44
+"KH","Basic Education","Cambodia",2619209.59,3041.07709021153,66
+"KM","Basic Education","Comoros",0,1446.17149475964,49
+"CD","Basic Education","Congo, Democratic Republic of",15325358.53,809.217533443526,79
+"CI","Basic Education","Cote d`Ivoire",26327.36,3210.45464438594,55
+"DJ","Basic Education","Djibouti",3017140.2,2998.74058570901,75
+"DO","Basic Education","Dominican Republic",5177649.29,12186.388560558,41
+"EG","Basic Education","Egypt",17585404.09,11089.2111773151,68
+"SV","Basic Education","El Salvador",2647271.7,7764.14274460714,39
+"ET","Basic Education","Ethiopia",23012870.03,1380.00026448913,81
+"GE","Basic Education","Georgia",1758425.65,7176.44362639204,47
+"GH","Basic Education","Ghana",17832126.75,3992.09003884754,28
+"GT","Basic Education","Guatemala",5495334.21,7296.59257319642,60
+"GW","Basic Education","Guinea-Bissau",935400,1407.02677224558,67
+"HT","Basic Education","Haiti",3228453.84,1703.02934940234,50
+"HN","Basic Education","Honduras",9743784.6,4592.59339927457,64
+"IN","Basic Education","India",1032479.32,5411.61554629181,39
+"ID","Basic Education","Indonesia",18978084.59,9561.12635183094,49
+"IQ","Basic Education","Iraq",3336745,14951.0776794266,69
+"JM","Basic Education","Jamaica",3209939.5,8891.89154248426,17
+"JO","Basic Education","Jordan",40850976.53,11784.5316899264,68
+"KE","Basic Education","Kenya",6953115.04,2794.98131908266,57
+"KG","Basic Education","Kyrgyz Republic",52858.4,3212.93244119764,66
+"LB","Basic Education","Lebanon",21657547,17173.8422362362,53
+"LR","Basic Education","Liberia",20084257.24,877.995480056484,58
+"MK","Basic Education","Macedonia",594921.22,11611.97490519,57
+"MG","Basic Education","Madagascar",-784.11,1413.99075673979,63
+"MW","Basic Education","Malawi",6894398.96,780.003107565482,51
+"ML","Basic Education","Mali",6360937.91,1641.83452128449,37
+"MN","Basic Education","Mongolia",11340968,9434.9627693653,37
+"MA","Basic Education","Morocco",16268148.62,7198.16371916788,66
+"MZ","Basic Education","Mozambique",3910001.6,1105.07349763736,45
+"NA","Basic Education","Namibia",35708682.98,9583.18475656442,31
+"NP","Basic Education","Nepal",434368.4,2244.79962842638,55
+"NI","Basic Education","Nicaragua",1197614.12,4642.69625070461,52
+"NG","Basic Education","Nigeria",10992916.18,5602.40879552442,51
+"PK","Basic Education","Pakistan",47102074.61,4601.68894303447,64
+"PE","Basic Education","Peru",3313745.26,11774.1883417434,44
+"PH","Basic Education","Philippines",4294515.87,6535.87586381471,44
+"RW","Basic Education","Rwanda",6112651.88,1473.63801166274,79
+"SN","Basic Education","Senegal",12382578.21,2241.99652516017,48
+"ZA","Basic Education","South Africa",244005.62,12506.7494760135,33
+"SS","Basic Education","South Sudan",12037002.02,2029.74531174235,62
+"SD","Basic Education","Sudan, Pre-2011 Election",5956469.95,3372.97200690061,81
+"TJ","Basic Education","Tajikistan",534284.8,2512.24756635,80
+"TZ","Basic Education","Tanzania",21930950.65,1775.05858032604,55
+"TM","Basic Education","Turkmenistan",85422.4,14004.160056658,95
+"UG","Basic Education","Uganda",9477157.82,1413.15463013282,58
+"YE","Basic Education","Yemen",12424228.89,3959.29188263281,76
+"ZM","Basic Education","Zambia",9043137.71,3925.46238739217,61
+"AF","Civil Society","Afghanistan",28928723.63,1946.19380603184,66
+"AL","Civil Society","Albania",656918,10374.015637354,49
+"AO","Civil Society","Angola",14893,7736.17468163313,69
+"AM","Civil Society","Armenia",5937820.66,7776.2860430691,62
+"AZ","Civil Society","Azerbaijan",5200070.1,17143.4792308476,84
+"BD","Civil Society","Bangladesh",1692774,2948.01488976887,54
+"BO","Civil Society","Bolivia",67837,6131.06168856137,48
+"BA","Civil Society","Bosnia and Herzegovina",3600426.88,9535.5397905006,50
+"BW","Civil Society","Botswana",11906,15751.9022060328,41
+"BR","Civil Society","Brazil",152117,15037.4574693446,45
+"BF","Civil Society","Burkina Faso",31989.94,1514.18622141102,44
+"BI","Civil Society","Burundi",384915.69,771.71542954274,74
+"KH","Civil Society","Cambodia",2849579.69,3041.07709021153,66
+"CM","Civil Society","Cameroon",46726.76,2830.12953902169,66
+"TD","Civil Society","Chad",75813.3,2088.5918355193,75
+"CO","Civil Society","Colombia",976931.12,12423.9230431716,54
+"CD","Civil Society","Congo, Democratic Republic of",2665331,809.217533443526,79
+"CG","Civil Society","Congo, Republic of",34451.34,5868.48055101527,57
+"CI","Civil Society","Cote d`Ivoire",132714.22,3210.45464438594,55
+"DO","Civil Society","Dominican Republic",383347.17,12186.388560558,41
+"EC","Civil Society","Ecuador",1589527.88,10889.9891270309,62
+"EG","Civil Society","Egypt",9987512.68,11089.2111773151,68
+"SV","Civil Society","El Salvador",106161,7764.14274460714,39
+"GQ","Civil Society","Equatorial Guinea",34000,33768.289851408,90
+"ET","Civil Society","Ethiopia",316198.6,1380.00026448913,81
+"GA","Civil Society","Gabon",30776.79,19264.3359398216,70
+"GM","Civil Society","Gambia, The",37886.92,1661.42355399369,83
+"GE","Civil Society","Georgia",14470010,7176.44362639204,47
+"GH","Civil Society","Ghana",1500000,3992.09003884754,28
+"GN","Civil Society","Guinea",1131696.36,1253.08489968023,64
+"GW","Civil Society","Guinea-Bissau",20000,1407.02677224558,67
+"GY","Civil Society","Guyana",9666.12,6545.93223037864,34
+"HT","Civil Society","Haiti",304842.8,1703.02934940234,50
+"HN","Civil Society","Honduras",5091373.9,4592.59339927457,64
+"IN","Civil Society","India",365000,5411.61554629181,39
+"ID","Civil Society","Indonesia",7465901.38,9561.12635183094,49
+"IQ","Civil Society","Iraq",13695267.1,14951.0776794266,69
+"JM","Civil Society","Jamaica",175004.2,8891.89154248426,17
+"JO","Civil Society","Jordan",11343705.12,11784.5316899264,68
+"KZ","Civil Society","Kazakhstan",1665589.47,23211.312265251,85
+"KE","Civil Society","Kenya",4207250.75,2794.98131908266,57
+"KG","Civil Society","Kyrgyz Republic",1196798.93,3212.93244119764,66
+"LB","Civil Society","Lebanon",4329383.9,17173.8422362362,53
+"LS","Civil Society","Lesotho",212632.25,2576.25549405545,47
+"LR","Civil Society","Liberia",3732418.6,877.995480056484,58
+"MK","Civil Society","Macedonia",2672600.65,11611.97490519,57
+"ML","Civil Society","Mali",593231.53,1641.83452128449,37
+"MR","Civil Society","Mauritania",97994,3042.83849410548,48
+"MX","Civil Society","Mexico",2892521.3,16463.392673388,61
+"MD","Civil Society","Moldova",3054546.7,4670.35017000535,53
+"MA","Civil Society","Morocco",1005953.61,7198.16371916788,66
+"MZ","Civil Society","Mozambique",1773997.4,1105.07349763736,45
+"NA","Civil Society","Namibia",106000,9583.18475656442,31
+"NI","Civil Society","Nicaragua",3725995.5,4642.69625070461,52
+"NE","Civil Society","Niger",72715.24,916.199691229844,52
+"NG","Civil Society","Nigeria",2198705.44,5602.40879552442,51
+"PK","Civil Society","Pakistan",15741831.98,4601.68894303447,64
+"PY","Civil Society","Paraguay",400121.2,8092.67275665026,59
+"PE","Civil Society","Peru",203097.6,11774.1883417434,44
+"PH","Civil Society","Philippines",430522.6,6535.87586381471,44
+"RW","Civil Society","Rwanda",493287.18,1473.63801166274,79
+"SN","Civil Society","Senegal",287358.69,2241.99652516017,48
+"RS","Civil Society","Serbia",5393117,13020.1042341046,37
+"SL","Civil Society","Sierra Leone",57740.21,1544.18323961817,49
+"SS","Civil Society","South Sudan",9342079.47,2029.74531174235,62
+"LK","Civil Society","Sri Lanka",1021243.8,9738.11917417447,76
+"SD","Civil Society","Sudan",127314,3372.97200690061,81
+"SD","Civil Society","Sudan, Pre-2011 Election",947888.33,3372.97200690061,81
+"SZ","Civil Society","Swaziland",63821.76,6685.33811734131,78
+"TJ","Civil Society","Tajikistan",1769576.31,2512.24756635,80
+"TZ","Civil Society","Tanzania",114555.52,1775.05858032604,55
+"TH","Civil Society","Thailand",3510000,14393.5307035565,64
+"TG","Civil Society","Togo",26000,1390.51971095318,65
+"TM","Civil Society","Turkmenistan",656684.67,14004.160056658,95
+"UG","Civil Society","Uganda",483671.47,1413.15463013282,58
+"UA","Civil Society","Ukraine",11631438.9,8789.98200051008,63
+"UZ","Civil Society","Uzbekistan",970377.01,5168.28603457276,95
+"VE","Civil Society","Venezuela",3745781.74,18198.3700172414,78
+"YE","Civil Society","Yemen",1738178.9,3959.29188263281,76
+"ZW","Civil Society","Zimbabwe",7531796.42,1832.08324432316,73
+"BD","Clean Productive Environment","Bangladesh",3885690.3,2948.01488976887,54
+"BR","Clean Productive Environment","Brazil",2634205,15037.4574693446,45
+"BI","Clean Productive Environment","Burundi",120221.4,771.71542954274,74
+"KH","Clean Productive Environment","Cambodia",8242096,3041.07709021153,66
+"CN","Clean Productive Environment","China",3208799.09,11906.5073908244,84
+"CO","Clean Productive Environment","Colombia",8781729.04,12423.9230431716,54
+"DO","Clean Productive Environment","Dominican Republic",1483044.53,12186.388560558,41
+"EC","Clean Productive Environment","Ecuador",200395,10889.9891270309,62
+"ET","Clean Productive Environment","Ethiopia",2318611.62,1380.00026448913,81
+"GE","Clean Productive Environment","Georgia",1354810.5,7176.44362639204,47
+"GH","Clean Productive Environment","Ghana",1568759,3992.09003884754,28
+"GT","Clean Productive Environment","Guatemala",1241995.6,7296.59257319642,60
+"GY","Clean Productive Environment","Guyana",2e+05,6545.93223037864,34
+"HT","Clean Productive Environment","Haiti",3232779,1703.02934940234,50
+"HN","Clean Productive Environment","Honduras",590000,4592.59339927457,64
+"IN","Clean Productive Environment","India",5307051.1,5411.61554629181,39
+"ID","Clean Productive Environment","Indonesia",6635669.62,9561.12635183094,49
+"JM","Clean Productive Environment","Jamaica",2236943.68,8891.89154248426,17
+"JO","Clean Productive Environment","Jordan",6377324.12,11784.5316899264,68
+"KE","Clean Productive Environment","Kenya",738628,2794.98131908266,57
+"MK","Clean Productive Environment","Macedonia",699211,11611.97490519,57
+"MW","Clean Productive Environment","Malawi",940000,780.003107565482,51
+"ML","Clean Productive Environment","Mali",15755.2,1641.83452128449,37
+"MX","Clean Productive Environment","Mexico",9414937.09,16463.392673388,61
+"MN","Clean Productive Environment","Mongolia",8841041.26,9434.9627693653,37
+"MZ","Clean Productive Environment","Mozambique",114942.3,1105.07349763736,45
+"NP","Clean Productive Environment","Nepal",1208325.8,2244.79962842638,55
+"PE","Clean Productive Environment","Peru",4933736.21,11774.1883417434,44
+"PH","Clean Productive Environment","Philippines",7892691.08,6535.87586381471,44
+"RW","Clean Productive Environment","Rwanda",1331343.8,1473.63801166274,79
+"SN","Clean Productive Environment","Senegal",1638756.31,2241.99652516017,48
+"ZA","Clean Productive Environment","South Africa",1618805,12506.7494760135,33
+"LK","Clean Productive Environment","Sri Lanka",1092242,9738.11917417447,76
+"TZ","Clean Productive Environment","Tanzania",-429651.1,1775.05858032604,55
+"UG","Clean Productive Environment","Uganda",337742.82,1413.15463013282,58
+"VN","Clean Productive Environment","Vietnam",19525779.6,5294.43986933333,84
+"ZM","Clean Productive Environment","Zambia",1912208.4,3925.46238739217,61
+"TN","Combating Weapons of Mass Destruction (WMD)","Tunisia",149999.94,11124.4960087614,53
+"UA","Combating Weapons of Mass Destruction (WMD)","Ukraine",18368436.58,8789.98200051008,63
+"AF","Conflict Mitigation and Reconciliation","Afghanistan",111122178.49,1946.19380603184,66
+"AO","Conflict Mitigation and Reconciliation","Angola",-1594,7736.17468163313,69
+"AM","Conflict Mitigation and Reconciliation","Armenia",498851,7776.2860430691,62
+"BO","Conflict Mitigation and Reconciliation","Bolivia",-811,6131.06168856137,48
+"BA","Conflict Mitigation and Reconciliation","Bosnia and Herzegovina",1512926.01,9535.5397905006,50
+"BI","Conflict Mitigation and Reconciliation","Burundi",21298.4,771.71542954274,74
+"CO","Conflict Mitigation and Reconciliation","Colombia",367736.4,12423.9230431716,54
+"CD","Conflict Mitigation and Reconciliation","Congo, Democratic Republic of",5372406.5,809.217533443526,79
+"CI","Conflict Mitigation and Reconciliation","Cote d`Ivoire",7137694.39,3210.45464438594,55
+"CY","Conflict Mitigation and Reconciliation","Cyprus",4548438,28224.4574448048,25
+"EC","Conflict Mitigation and Reconciliation","Ecuador",190800.48,10889.9891270309,62
+"ET","Conflict Mitigation and Reconciliation","Ethiopia",936485.24,1380.00026448913,81
+"GE","Conflict Mitigation and Reconciliation","Georgia",1696175.6,7176.44362639204,47
+"GT","Conflict Mitigation and Reconciliation","Guatemala",595770,7296.59257319642,60
+"GN","Conflict Mitigation and Reconciliation","Guinea",366919.6,1253.08489968023,64
+"HT","Conflict Mitigation and Reconciliation","Haiti",19553065.19,1703.02934940234,50
+"ID","Conflict Mitigation and Reconciliation","Indonesia",-7008.35,9561.12635183094,49
+"IE","Conflict Mitigation and Reconciliation","Ireland",9275000,46139.6166017257,16
+"KE","Conflict Mitigation and Reconciliation","Kenya",13806172.73,2794.98131908266,57
+"KG","Conflict Mitigation and Reconciliation","Kyrgyz Republic",11249375.2,3212.93244119764,66
+"LB","Conflict Mitigation and Reconciliation","Lebanon",6974655.2,17173.8422362362,53
+"LR","Conflict Mitigation and Reconciliation","Liberia",326317.53,877.995480056484,58
+"LY","Conflict Mitigation and Reconciliation","Libya",7453377.6,21046.3473378789,62
+"ML","Conflict Mitigation and Reconciliation","Mali",826898.2,1641.83452128449,37
+"MA","Conflict Mitigation and Reconciliation","Morocco",411069.09,7198.16371916788,66
+"NP","Conflict Mitigation and Reconciliation","Nepal",3512298.93,2244.79962842638,55
+"NG","Conflict Mitigation and Reconciliation","Nigeria",639740.31,5602.40879552442,51
+"PE","Conflict Mitigation and Reconciliation","Peru",1366967.1,11774.1883417434,44
+"PH","Conflict Mitigation and Reconciliation","Philippines",621673.68,6535.87586381471,44
+"RW","Conflict Mitigation and Reconciliation","Rwanda",468193.14,1473.63801166274,79
+"SN","Conflict Mitigation and Reconciliation","Senegal",1175561.79,2241.99652516017,48
+"ZA","Conflict Mitigation and Reconciliation","South Africa",414924.85,12506.7494760135,33
+"SS","Conflict Mitigation and Reconciliation","South Sudan",17942133.1,2029.74531174235,62
+"LK","Conflict Mitigation and Reconciliation","Sri Lanka",7184862.72,9738.11917417447,76
+"SD","Conflict Mitigation and Reconciliation","Sudan",6540553,3372.97200690061,81
+"SD","Conflict Mitigation and Reconciliation","Sudan, Pre-2011 Election",2672423.9,3372.97200690061,81
+"TH","Conflict Mitigation and Reconciliation","Thailand",1711075.52,14393.5307035565,64
+"TN","Conflict Mitigation and Reconciliation","Tunisia",5811118,11124.4960087614,53
+"UG","Conflict Mitigation and Reconciliation","Uganda",2146872.82,1413.15463013282,58
+"YE","Conflict Mitigation and Reconciliation","Yemen",1421003,3959.29188263281,76
+"ZW","Conflict Mitigation and Reconciliation","Zimbabwe",6022130.01,1832.08324432316,73
+"AF","Counter-Narcotics","Afghanistan",38483006.22,1946.19380603184,66
+"BO","Counter-Narcotics","Bolivia",1053996.31,6131.06168856137,48
+"CO","Counter-Narcotics","Colombia",78272314.52,12423.9230431716,54
+"EC","Counter-Narcotics","Ecuador",2805666.75,10889.9891270309,62
+"PE","Counter-Narcotics","Peru",24671417.46,11774.1883417434,44
+"AF","Counterterrorism","Afghanistan",869230,1946.19380603184,66
+"AL","Counterterrorism","Albania",134162,10374.015637354,49
+"DZ","Counterterrorism","Algeria",239412,13320.2321901285,59
+"AM","Counterterrorism","Armenia",3200,7776.2860430691,62
+"AU","Counterterrorism","Australia",12111,43543.8120396093,22
+"AT","Counterterrorism","Austria",3021,45492.8236393356,21
+"AZ","Counterterrorism","Azerbaijan",76307,17143.4792308476,84
+"BS","Counterterrorism","Bahamas, The",215753,23264.2722108642,20
+"BD","Counterterrorism","Bangladesh",493368,2948.01488976887,54
+"BZ","Counterterrorism","Belize",305895,8486.89853967369,22
+"BJ","Counterterrorism","Benin",2043,1790.75363672991,36
+"BO","Counterterrorism","Bolivia",4086,6131.06168856137,48
+"BA","Counterterrorism","Bosnia and Herzegovina",130180,9535.5397905006,50
+"BW","Counterterrorism","Botswana",37065,15751.9022060328,41
+"BR","Counterterrorism","Brazil",514855,15037.4574693446,45
+"BG","Counterterrorism","Bulgaria",544967,15731.6726237737,39
+"BF","Counterterrorism","Burkina Faso",37415,1514.18622141102,44
+"BI","Counterterrorism","Burundi",340743,771.71542954274,74
+"KH","Counterterrorism","Cambodia",181109,3041.07709021153,66
+"CM","Counterterrorism","Cameroon",245753,2830.12953902169,66
+"CA","Counterterrorism","Canada",18126,43247.0443447575,19
+"TD","Counterterrorism","Chad",90860,2088.5918355193,75
+"CL","Counterterrorism","Chile",3021,21911.3009745228,31
+"CN","Counterterrorism","China",14152,11906.5073908244,84
+"CO","Counterterrorism","Colombia",1287168,12423.9230431716,54
+"CD","Counterterrorism","Congo, Democratic Republic of",21935,809.217533443526,79
+"CG","Counterterrorism","Congo, Republic of",21935,5868.48055101527,57
+"CR","Counterterrorism","Costa Rica",2116,13875.8563536715,18
+"CI","Counterterrorism","Cote d`Ivoire",25429,3210.45464438594,55
+"HR","Counterterrorism","Croatia",138391,21365.5824631022,40
+"CZ","Counterterrorism","Czech Republic",100114,28769.8577721051,20
+"DK","Counterterrorism","Denmark",5596,43444.6297130455,12
+"DJ","Counterterrorism","Djibouti",99107,2998.74058570901,75
+"DO","Counterterrorism","Dominican Republic",348004,12186.388560558,41
+"EG","Counterterrorism","Egypt",2628123,11089.2111773151,68
+"SV","Counterterrorism","El Salvador",99786,7764.14274460714,39
+"EE","Counterterrorism","Estonia",235261,25461.8507541553,16
+"FJ","Counterterrorism","Fiji",50368,7750.43065903864,54
+"FI","Counterterrorism","Finland",14498,39812.3792223133,11
+"FR","Counterterrorism","France",12171,37871.8556151032,22
+"GM","Counterterrorism","Gambia, The",86350,1661.42355399369,83
+"GE","Counterterrorism","Georgia",346123,7176.44362639204,47
+"DE","Counterterrorism","Germany",20169,44469.4380913625,17
+"GH","Counterterrorism","Ghana",10675,3992.09003884754,28
+"GR","Counterterrorism","Greece",94093,25705.0373896157,46
+"GT","Counterterrorism","Guatemala",118343,7296.59257319642,60
+"GN","Counterterrorism","Guinea",49958,1253.08489968023,64
+"GY","Counterterrorism","Guyana",22630,6545.93223037864,34
+"HT","Counterterrorism","Haiti",2043,1703.02934940234,50
+"HN","Counterterrorism","Honduras",19383,4592.59339927457,64
+"HU","Counterterrorism","Hungary",785354,23482.1020528711,35
+"IS","Counterterrorism","Iceland",3021,41938.9299464785,12
+"IN","Counterterrorism","India",529612,5411.61554629181,39
+"ID","Counterterrorism","Indonesia",772915,9561.12635183094,49
+"IQ","Counterterrorism","Iraq",62833,14951.0776794266,69
+"IE","Counterterrorism","Ireland",2043,46139.6166017257,16
+"IL","Counterterrorism","Israel",6042,32490.6207427851,30
+"IT","Counterterrorism","Italy",23163,35597.3160550274,31
+"JP","Counterterrorism","Japan",4558,36449.0618262047,25
+"JO","Counterterrorism","Jordan",801724,11784.5316899264,68
+"KZ","Counterterrorism","Kazakhstan",339777,23211.312265251,85
+"KE","Counterterrorism","Kenya",5297145.2,2794.98131908266,57
+"KI","Counterterrorism","Kiribati",11960,1855.82888361975,29
+"LA","Counterterrorism","Laos",140500,4822.02207368924,84
+"LV","Counterterrorism","Latvia",88560,22560.2299095174,27
+"LB","Counterterrorism","Lebanon",767163,17173.8422362362,53
+"LS","Counterterrorism","Lesotho",3775,2576.25549405545,47
+"LR","Counterterrorism","Liberia",32887,877.995480056484,58
+"LY","Counterterrorism","Libya",30775,21046.3473378789,62
+"LT","Counterterrorism","Lithuania",77888,25467.0459415157,24
+"MK","Counterterrorism","Macedonia",99239,11611.97490519,57
+"MY","Counterterrorism","Malaysia",489274,23338.0140244332,64
+"MV","Counterterrorism","Maldives",347919,11656.7428360248,55
+"ML","Counterterrorism","Mali",4920931.2,1641.83452128449,37
+"MR","Counterterrorism","Mauritania",164940.63,3042.83849410548,48
+"MU","Counterterrorism","Mauritius",230677,17199.5294237952,30
+"MX","Counterterrorism","Mexico",613661,16463.392673388,61
+"MD","Counterterrorism","Moldova",154247,4670.35017000535,53
+"MN","Counterterrorism","Mongolia",51242,9434.9627693653,37
+"ME","Counterterrorism","Montenegro",92932,14131.6050000068,39
+"MA","Counterterrorism","Morocco",1500857,7198.16371916788,66
+"MZ","Counterterrorism","Mozambique",20000,1105.07349763736,45
+"NP","Counterterrorism","Nepal",465728,2244.79962842638,55
+"NL","Counterterrorism","Netherlands",4531,46298.4358637241,10
+"NZ","Counterterrorism","New Zealand",11106,34825.7083942145,18
+"NG","Counterterrorism","Nigeria",759686,5602.40879552442,51
+"NO","Counterterrorism","Norway",9595,65461.1653874422,10
+"PK","Counterterrorism","Pakistan",1493790,4601.68894303447,64
+"PA","Counterterrorism","Panama",157026,19416.2320170688,50
+"PG","Counterterrorism","Papua New Guinea",25690,2539.08170427106,29
+"PY","Counterterrorism","Paraguay",50010,8092.67275665026,59
+"PE","Counterterrorism","Peru",252310,11774.1883417434,44
+"PH","Counterterrorism","Philippines",681213.8,6535.87586381471,44
+"PL","Counterterrorism","Poland",95553,23649.1101792577,27
+"PT","Counterterrorism","Portugal",20641,26759.026122355,18
+"RO","Counterterrorism","Romania",394896,18991.3019526057,41
+"RU","Counterterrorism","Russia",13149,24114.0880976422,81
+"RW","Counterterrorism","Rwanda",48428,1473.63801166274,79
+"WS","Counterterrorism","Samoa",11960,5768.98576875814,29
+"SN","Counterterrorism","Senegal",126769,2241.99652516017,48
+"RS","Counterterrorism","Serbia",275281,13020.1042341046,37
+"SC","Counterterrorism","Seychelles",75777,24587.4855947311,52
+"SG","Counterterrorism","Singapore",2748,78763.3849443771,67
+"SK","Counterterrorism","Slovak Republic",20491,26642.7084756583,23
+"SI","Counterterrorism","Slovenia",137697,28995.6434884216,24
+"ZA","Counterterrorism","South Africa",32846,12506.7494760135,33
+"SS","Counterterrorism","South Sudan",30234,2029.74531174235,62
+"ES","Counterterrorism","Spain",29499,32925.4740029116,28
+"LK","Counterterrorism","Sri Lanka",473169,9738.11917417447,76
+"SE","Counterterrorism","Sweden",20724,45148.1252596379,10
+"CH","Counterterrorism","Switzerland",5064,56564.9359472129,12
+"TJ","Counterterrorism","Tajikistan",89668,2512.24756635,80
+"TZ","Counterterrorism","Tanzania",58577,1775.05858032604,55
+"TH","Counterterrorism","Thailand",505605,14393.5307035565,64
+"TO","Counterterrorism","Tonga",22814,5304.20668898596,29
+"TT","Counterterrorism","Trinidad and Tobago",37179,30446.0075388524,25
+"TN","Counterterrorism","Tunisia",341082,11124.4960087614,53
+"TR","Counterterrorism","Turkey",692781,19020.0650632949,62
+"TM","Counterterrorism","Turkmenistan",9000,14004.160056658,95
+"UG","Counterterrorism","Uganda",1094019,1413.15463013282,58
+"UA","Counterterrorism","Ukraine",125114,8789.98200051008,63
+"GB","Counterterrorism","United Kingdom",2043,38451.6571582051,23
+"UZ","Counterterrorism","Uzbekistan",123523,5168.28603457276,95
+"VN","Counterterrorism","Vietnam",55810,5294.43986933333,84
+"YE","Counterterrorism","Yemen",1005153,3959.29188263281,76
+"AF","Direct Administrative Costs","Afghanistan",40113011.34,1946.19380603184,66
+"AL","Direct Administrative Costs","Albania",644334.17,10374.015637354,49
+"AO","Direct Administrative Costs","Angola",3845553.02,7736.17468163313,69
+"AM","Direct Administrative Costs","Armenia",1515152.07,7776.2860430691,62
+"AZ","Direct Administrative Costs","Azerbaijan",2131197.28,17143.4792308476,84
+"BD","Direct Administrative Costs","Bangladesh",5332082.91,2948.01488976887,54
+"BY","Direct Administrative Costs","Belarus",9557167.16,17619.7696564982,93
+"BJ","Direct Administrative Costs","Benin",2283390.76,1790.75363672991,36
+"BO","Direct Administrative Costs","Bolivia",4628542.13,6131.06168856137,48
+"BA","Direct Administrative Costs","Bosnia and Herzegovina",1847369.23,9535.5397905006,50
+"BR","Direct Administrative Costs","Brazil",1421699.23,15037.4574693446,45
+"BG","Direct Administrative Costs","Bulgaria",27068.49,15731.6726237737,39
+"BF","Direct Administrative Costs","Burkina Faso",10908178.73,1514.18622141102,44
+"BI","Direct Administrative Costs","Burundi",1071693.46,771.71542954274,74
+"KH","Direct Administrative Costs","Cambodia",2879729.48,3041.07709021153,66
+"CM","Direct Administrative Costs","Cameroon",-2507.2,2830.12953902169,66
+"CV","Direct Administrative Costs","Cape Verde",1270576.63,6416.317160988,27
+"CF","Direct Administrative Costs","Central African Republic",62183.44,603.742959794015,77
+"TD","Direct Administrative Costs","Chad",123354.96,2088.5918355193,75
+"CN","Direct Administrative Costs","China",417148.89,11906.5073908244,84
+"CO","Direct Administrative Costs","Colombia",7445794.87,12423.9230431716,54
+"CD","Direct Administrative Costs","Congo, Democratic Republic of",7733323,809.217533443526,79
+"CR","Direct Administrative Costs","Costa Rica",2727283.58,13875.8563536715,18
+"CI","Direct Administrative Costs","Cote d`Ivoire",1119112.61,3210.45464438594,55
+"HR","Direct Administrative Costs","Croatia",-114823,21365.5824631022,40
+"CY","Direct Administrative Costs","Cyprus",271625.11,28224.4574448048,25
+"DJ","Direct Administrative Costs","Djibouti",173205.59,2998.74058570901,75
+"DO","Direct Administrative Costs","Dominican Republic",2264205.54,12186.388560558,41
+"EC","Direct Administrative Costs","Ecuador",1807250.13,10889.9891270309,62
+"EG","Direct Administrative Costs","Egypt",10117892.34,11089.2111773151,68
+"SV","Direct Administrative Costs","El Salvador",3830704.84,7764.14274460714,39
+"ER","Direct Administrative Costs","Eritrea",6708.57,1195.67675726337,94
+"ET","Direct Administrative Costs","Ethiopia",7623341.12,1380.00026448913,81
+"GE","Direct Administrative Costs","Georgia",4770315.93,7176.44362639204,47
+"GH","Direct Administrative Costs","Ghana",4166468.02,3992.09003884754,28
+"GT","Direct Administrative Costs","Guatemala",4704294.5,7296.59257319642,60
+"GN","Direct Administrative Costs","Guinea",3743059.07,1253.08489968023,64
+"GY","Direct Administrative Costs","Guyana",381357.2,6545.93223037864,34
+"HT","Direct Administrative Costs","Haiti",20367237.34,1703.02934940234,50
+"HN","Direct Administrative Costs","Honduras",5131672.29,4592.59339927457,64
+"HU","Direct Administrative Costs","Hungary",63318.11,23482.1020528711,35
+"IN","Direct Administrative Costs","India",6724890.39,5411.61554629181,39
+"ID","Direct Administrative Costs","Indonesia",10774285.11,9561.12635183094,49
+"IQ","Direct Administrative Costs","Iraq",-882705.71,14951.0776794266,69
+"IL","Direct Administrative Costs","Israel",105.159999999998,32490.6207427851,30
+"JM","Direct Administrative Costs","Jamaica",1718082.69,8891.89154248426,17
+"JO","Direct Administrative Costs","Jordan",16053103.91,11784.5316899264,68
+"KZ","Direct Administrative Costs","Kazakhstan",1581189.88,23211.312265251,85
+"KE","Direct Administrative Costs","Kenya",8155849.94,2794.98131908266,57
+"KG","Direct Administrative Costs","Kyrgyz Republic",4648432.75,3212.93244119764,66
+"LA","Direct Administrative Costs","Laos",146699.12,4822.02207368924,84
+"LB","Direct Administrative Costs","Lebanon",2200844.42,17173.8422362362,53
+"LS","Direct Administrative Costs","Lesotho",9865335.22,2576.25549405545,47
+"LR","Direct Administrative Costs","Liberia",5675265.55,877.995480056484,58
+"LY","Direct Administrative Costs","Libya",1733197.59,21046.3473378789,62
+"MK","Direct Administrative Costs","Macedonia",1788205.34,11611.97490519,57
+"MG","Direct Administrative Costs","Madagascar",875379.03,1413.99075673979,63
+"MW","Direct Administrative Costs","Malawi",12818105.65,780.003107565482,51
+"MV","Direct Administrative Costs","Maldives",485.1,11656.7428360248,55
+"ML","Direct Administrative Costs","Mali",9601078.73,1641.83452128449,37
+"MH","Direct Administrative Costs","Marshall Islands",174749.2,3900.99731010833,17
+"MR","Direct Administrative Costs","Mauritania",623.73,3042.83849410548,48
+"MX","Direct Administrative Costs","Mexico",2411652.33,16463.392673388,61
+"FM","Direct Administrative Costs","Micronesia",13147.3,3394.64727547184,21
+"MD","Direct Administrative Costs","Moldova",6072389.23,4670.35017000535,53
+"MN","Direct Administrative Costs","Mongolia",12195515.36,9434.9627693653,37
+"ME","Direct Administrative Costs","Montenegro",400275.7,14131.6050000068,39
+"MA","Direct Administrative Costs","Morocco",20995524.56,7198.16371916788,66
+"MZ","Direct Administrative Costs","Mozambique",14959941.44,1105.07349763736,45
+"NA","Direct Administrative Costs","Namibia",7437022.62,9583.18475656442,31
+"NP","Direct Administrative Costs","Nepal",3513698.42,2244.79962842638,55
+"NI","Direct Administrative Costs","Nicaragua",2112825.99,4642.69625070461,52
+"NE","Direct Administrative Costs","Niger",3381.8,916.199691229844,52
+"NG","Direct Administrative Costs","Nigeria",5575208.85,5602.40879552442,51
+"PK","Direct Administrative Costs","Pakistan",22941679.17,4601.68894303447,64
+"PA","Direct Administrative Costs","Panama",431147.69,19416.2320170688,50
+"PG","Direct Administrative Costs","Papua New Guinea",502309.04,2539.08170427106,29
+"PY","Direct Administrative Costs","Paraguay",843893.84,8092.67275665026,59
+"PE","Direct Administrative Costs","Peru",5386138.13,11774.1883417434,44
+"PH","Direct Administrative Costs","Philippines",9555057.93,6535.87586381471,44
+"RO","Direct Administrative Costs","Romania",-82111.4,18991.3019526057,41
+"RU","Direct Administrative Costs","Russia",35687486.08,24114.0880976422,81
+"RW","Direct Administrative Costs","Rwanda",4637229.87,1473.63801166274,79
+"ST","Direct Administrative Costs","Sao Tome and Principe",-106240.35,2971.06707976578,28
+"SN","Direct Administrative Costs","Senegal",11503668.38,2241.99652516017,48
+"RS","Direct Administrative Costs","Serbia",1787063.07,13020.1042341046,37
+"SL","Direct Administrative Costs","Sierra Leone",603147.32,1544.18323961817,49
+"SB","Direct Administrative Costs","Solomon Islands",150000,2068.96106224769,28
+"ZA","Direct Administrative Costs","South Africa",3370018.29,12506.7494760135,33
+"SS","Direct Administrative Costs","South Sudan",886464.16,2029.74531174235,62
+"LK","Direct Administrative Costs","Sri Lanka",1935706.11,9738.11917417447,76
+"SD","Direct Administrative Costs","Sudan",3457432.91,3372.97200690061,81
+"SD","Direct Administrative Costs","Sudan, Pre-2011 Election",5610063.92,3372.97200690061,81
+"TJ","Direct Administrative Costs","Tajikistan",2401397.25,2512.24756635,80
+"TZ","Direct Administrative Costs","Tanzania",11970516.9,1775.05858032604,55
+"TH","Direct Administrative Costs","Thailand",480127.13,14393.5307035565,64
+"TN","Direct Administrative Costs","Tunisia",911629.1,11124.4960087614,53
+"TR","Direct Administrative Costs","Turkey",7823.13,19020.0650632949,62
+"TM","Direct Administrative Costs","Turkmenistan",1170853.09,14004.160056658,95
+"UG","Direct Administrative Costs","Uganda",9287239.52,1413.15463013282,58
+"UA","Direct Administrative Costs","Ukraine",3298495.74,8789.98200051008,63
+"UZ","Direct Administrative Costs","Uzbekistan",1557999.03,5168.28603457276,95
+"VE","Direct Administrative Costs","Venezuela",834083.76,18198.3700172414,78
+"VN","Direct Administrative Costs","Vietnam",4226372.08,5294.43986933333,84
+"YE","Direct Administrative Costs","Yemen",2619118.77,3959.29188263281,76
+"ZM","Direct Administrative Costs","Zambia",10427956.99,3925.46238739217,61
+"ZW","Direct Administrative Costs","Zimbabwe",5907388.96,1832.08324432316,73
+"AF","Disaster Readiness","Afghanistan",2059347.45,1946.19380603184,66
+"BD","Disaster Readiness","Bangladesh",2205762.4,2948.01488976887,54
+"BT","Disaster Readiness","Bhutan",10810,7404.73678431865,59
+"BR","Disaster Readiness","Brazil",3878.36,15037.4574693446,45
+"BF","Disaster Readiness","Burkina Faso",1833826.37,1514.18622141102,44
+"KH","Disaster Readiness","Cambodia",183545.3,3041.07709021153,66
+"TD","Disaster Readiness","Chad",130373,2088.5918355193,75
+"CL","Disaster Readiness","Chile",21618,21911.3009745228,31
+"CN","Disaster Readiness","China",784547.06,11906.5073908244,84
+"CO","Disaster Readiness","Colombia",142911.25,12423.9230431716,54
+"CD","Disaster Readiness","Congo, Democratic Republic of",757646,809.217533443526,79
+"CR","Disaster Readiness","Costa Rica",45684.3,13875.8563536715,18
+"DJ","Disaster Readiness","Djibouti",744.72,2998.74058570901,75
+"DO","Disaster Readiness","Dominican Republic",349069.87,12186.388560558,41
+"EC","Disaster Readiness","Ecuador",18357.9,10889.9891270309,62
+"SV","Disaster Readiness","El Salvador",621022.6,7764.14274460714,39
+"ET","Disaster Readiness","Ethiopia",7981392.02,1380.00026448913,81
+"FJ","Disaster Readiness","Fiji",0,7750.43065903864,54
+"GE","Disaster Readiness","Georgia",1403.65,7176.44362639204,47
+"GT","Disaster Readiness","Guatemala",1090948.33,7296.59257319642,60
+"GN","Disaster Readiness","Guinea",81680.27,1253.08489968023,64
+"HT","Disaster Readiness","Haiti",3539403.26,1703.02934940234,50
+"HN","Disaster Readiness","Honduras",5777.34,4592.59339927457,64
+"IN","Disaster Readiness","India",17974,5411.61554629181,39
+"ID","Disaster Readiness","Indonesia",4817541.74,9561.12635183094,49
+"IQ","Disaster Readiness","Iraq",760201,14951.0776794266,69
+"IL","Disaster Readiness","Israel",23151.79,32490.6207427851,30
+"JM","Disaster Readiness","Jamaica",177530.92,8891.89154248426,17
+"JO","Disaster Readiness","Jordan",5059.54,11784.5316899264,68
+"KE","Disaster Readiness","Kenya",1265154.27,2794.98131908266,57
+"KR","Disaster Readiness","Korea, South",37328.31,33139.5820334768,32
+"LA","Disaster Readiness","Laos",310086.21,4822.02207368924,84
+"LS","Disaster Readiness","Lesotho",311916,2576.25549405545,47
+"MG","Disaster Readiness","Madagascar",4388.24,1413.99075673979,63
+"MW","Disaster Readiness","Malawi",887954.47,780.003107565482,51
+"MV","Disaster Readiness","Maldives",1e+05,11656.7428360248,55
+"ML","Disaster Readiness","Mali",253244,1641.83452128449,37
+"MH","Disaster Readiness","Marshall Islands",296187.3,3900.99731010833,17
+"MX","Disaster Readiness","Mexico",47.43,16463.392673388,61
+"FM","Disaster Readiness","Micronesia",388741.7,3394.64727547184,21
+"MN","Disaster Readiness","Mongolia",185036.2,9434.9627693653,37
+"MZ","Disaster Readiness","Mozambique",4461173.76,1105.07349763736,45
+"NA","Disaster Readiness","Namibia",1121170.2,9583.18475656442,31
+"NP","Disaster Readiness","Nepal",1274193.7,2244.79962842638,55
+"NI","Disaster Readiness","Nicaragua",959260,4642.69625070461,52
+"NE","Disaster Readiness","Niger",24786,916.199691229844,52
+"PK","Disaster Readiness","Pakistan",5245619.7,4601.68894303447,64
+"PA","Disaster Readiness","Panama",40,19416.2320170688,50
+"PG","Disaster Readiness","Papua New Guinea",649788,2539.08170427106,29
+"PY","Disaster Readiness","Paraguay",56385.72,8092.67275665026,59
+"PE","Disaster Readiness","Peru",718500,11774.1883417434,44
+"PH","Disaster Readiness","Philippines",2624842.62,6535.87586381471,44
+"WS","Disaster Readiness","Samoa",220000,5768.98576875814,29
+"SB","Disaster Readiness","Solomon Islands",177255,2068.96106224769,28
+"ZA","Disaster Readiness","South Africa",2770892.02,12506.7494760135,33
+"SS","Disaster Readiness","South Sudan",407305.2,2029.74531174235,62
+"LK","Disaster Readiness","Sri Lanka",220,9738.11917417447,76
+"SD","Disaster Readiness","Sudan",7571.3,3372.97200690061,81
+"SD","Disaster Readiness","Sudan, Pre-2011 Election",75,3372.97200690061,81
+"SZ","Disaster Readiness","Swaziland",1286498.62,6685.33811734131,78
+"TH","Disaster Readiness","Thailand",638054.9,14393.5307035565,64
+"UG","Disaster Readiness","Uganda",297659.97,1413.15463013282,58
+"VU","Disaster Readiness","Vanuatu",402645,2990.91682998287,25
+"VN","Disaster Readiness","Vietnam",1433995.32,5294.43986933333,84
+"ZM","Disaster Readiness","Zambia",2315658.07,3925.46238739217,61
+"ZW","Disaster Readiness","Zimbabwe",10815034.61,1832.08324432316,73
+"AL","Economic Development - General","Albania",469391.12,10374.015637354,49
+"AM","Economic Development - General","Armenia",682846.7,7776.2860430691,62
+"AZ","Economic Development - General","Azerbaijan",568292.73,17143.4792308476,84
+"BJ","Economic Development - General","Benin",969310.31,1790.75363672991,36
+"BW","Economic Development - General","Botswana",3935.69,15751.9022060328,41
+"BG","Economic Development - General","Bulgaria",201312.15,15731.6726237737,39
+"BF","Economic Development - General","Burkina Faso",799667.91,1514.18622141102,44
+"KH","Economic Development - General","Cambodia",1330.39,3041.07709021153,66
+"CM","Economic Development - General","Cameroon",828486.61,2830.12953902169,66
+"CR","Economic Development - General","Costa Rica",673231.1,13875.8563536715,18
+"DO","Economic Development - General","Dominican Republic",722641.48,12186.388560558,41
+"EC","Economic Development - General","Ecuador",181894.21,10889.9891270309,62
+"SV","Economic Development - General","El Salvador",448072.2,7764.14274460714,39
+"ET","Economic Development - General","Ethiopia",121328.7,1380.00026448913,81
+"GM","Economic Development - General","Gambia, The",98812.7,1661.42355399369,83
+"GE","Economic Development - General","Georgia",445630.42,7176.44362639204,47
+"GH","Economic Development - General","Ghana",784309.91,3992.09003884754,28
+"GT","Economic Development - General","Guatemala",473906.59,7296.59257319642,60
+"GN","Economic Development - General","Guinea",463700.57,1253.08489968023,64
+"KE","Economic Development - General","Kenya",401102.22,2794.98131908266,57
+"KG","Economic Development - General","Kyrgyz Republic",256281.16,3212.93244119764,66
+"LS","Economic Development - General","Lesotho",265073.96,2576.25549405545,47
+"LR","Economic Development - General","Liberia",1822.8,877.995480056484,58
+"MK","Economic Development - General","Macedonia",377351.97,11611.97490519,57
+"MG","Economic Development - General","Madagascar",469629.4,1413.99075673979,63
+"MW","Economic Development - General","Malawi",252693.67,780.003107565482,51
+"ML","Economic Development - General","Mali",33708.87,1641.83452128449,37
+"MX","Economic Development - General","Mexico",746567.89,16463.392673388,61
+"MD","Economic Development - General","Moldova",1023191.78,4670.35017000535,53
+"MN","Economic Development - General","Mongolia",189972.12,9434.9627693653,37
+"MA","Economic Development - General","Morocco",64243.22,7198.16371916788,66
+"MZ","Economic Development - General","Mozambique",4476.8,1105.07349763736,45
+"NA","Economic Development - General","Namibia",56897.64,9583.18475656442,31
+"NP","Economic Development - General","Nepal",260318.61,2244.79962842638,55
+"NI","Economic Development - General","Nicaragua",926066.02,4642.69625070461,52
+"PA","Economic Development - General","Panama",878265.24,19416.2320170688,50
+"PY","Economic Development - General","Paraguay",1736222.21,8092.67275665026,59
+"PE","Economic Development - General","Peru",670868.96,11774.1883417434,44
+"RW","Economic Development - General","Rwanda",2032,1473.63801166274,79
+"SN","Economic Development - General","Senegal",2055760.63,2241.99652516017,48
+"SL","Economic Development - General","Sierra Leone",6581.33,1544.18323961817,49
+"ZA","Economic Development - General","South Africa",4230.11,12506.7494760135,33
+"SR","Economic Development - General","Suriname",319163.59,16071.3846314326,28
+"SZ","Economic Development - General","Swaziland",4294.84,6685.33811734131,78
+"TZ","Economic Development - General","Tanzania",94230.5,1775.05858032604,55
+"TH","Economic Development - General","Thailand",486820.24,14393.5307035565,64
+"TG","Economic Development - General","Togo",256421.02,1390.51971095318,65
+"UG","Economic Development - General","Uganda",582980.39,1413.15463013282,58
+"UA","Economic Development - General","Ukraine",876257.53,8789.98200051008,63
+"VU","Economic Development - General","Vanuatu",58498.17,2990.91682998287,25
+"ZM","Economic Development - General","Zambia",1059825.89,3925.46238739217,61
+"AF","Economic Opportunity","Afghanistan",23180619.03,1946.19380603184,66
+"AO","Economic Opportunity","Angola",273117.54,7736.17468163313,69
+"AZ","Economic Opportunity","Azerbaijan",166197,17143.4792308476,84
+"BJ","Economic Opportunity","Benin",13176.57,1790.75363672991,36
+"BO","Economic Opportunity","Bolivia",62540,6131.06168856137,48
+"BA","Economic Opportunity","Bosnia and Herzegovina",1224225.6,9535.5397905006,50
+"BW","Economic Opportunity","Botswana",33795.25,15751.9022060328,41
+"BR","Economic Opportunity","Brazil",232300,15037.4574693446,45
+"BF","Economic Opportunity","Burkina Faso",9125.32,1514.18622141102,44
+"BI","Economic Opportunity","Burundi",702037.49,771.71542954274,74
+"CV","Economic Opportunity","Cabo Verde",145866.86,6416.317160988,27
+"KH","Economic Opportunity","Cambodia",505293.43,3041.07709021153,66
+"CV","Economic Opportunity","Cape Verde",989184.14,6416.317160988,27
+"TD","Economic Opportunity","Chad",6300.54,2088.5918355193,75
+"CL","Economic Opportunity","Chile",46154,21911.3009745228,31
+"CN","Economic Opportunity","China",249421.02,11906.5073908244,84
+"CO","Economic Opportunity","Colombia",110594,12423.9230431716,54
+"KM","Economic Opportunity","Comoros",56753.3,1446.17149475964,49
+"CD","Economic Opportunity","Congo, Democratic Republic of",1370340,809.217533443526,79
+"CR","Economic Opportunity","Costa Rica",48438,13875.8563536715,18
+"DO","Economic Opportunity","Dominican Republic",46890,12186.388560558,41
+"EC","Economic Opportunity","Ecuador",706131.2,10889.9891270309,62
+"EG","Economic Opportunity","Egypt",8204666.5,11089.2111773151,68
+"SV","Economic Opportunity","El Salvador",442197,7764.14274460714,39
+"ET","Economic Opportunity","Ethiopia",41115.13,1380.00026448913,81
+"GE","Economic Opportunity","Georgia",2435002.08,7176.44362639204,47
+"GH","Economic Opportunity","Ghana",343561.97,3992.09003884754,28
+"GT","Economic Opportunity","Guatemala",181342,7296.59257319642,60
+"GN","Economic Opportunity","Guinea",295453.5,1253.08489968023,64
+"HT","Economic Opportunity","Haiti",5489742.91,1703.02934940234,50
+"HN","Economic Opportunity","Honduras",116324,4592.59339927457,64
+"IN","Economic Opportunity","India",574358,5411.61554629181,39
+"ID","Economic Opportunity","Indonesia",683553.84,9561.12635183094,49
+"IQ","Economic Opportunity","Iraq",10404640,14951.0776794266,69
+"JM","Economic Opportunity","Jamaica",1202737.85,8891.89154248426,17
+"JO","Economic Opportunity","Jordan",174030.69,11784.5316899264,68
+"KE","Economic Opportunity","Kenya",6124119.53,2794.98131908266,57
+"LB","Economic Opportunity","Lebanon",1718068.51,17173.8422362362,53
+"LR","Economic Opportunity","Liberia",7104292.87,877.995480056484,58
+"LY","Economic Opportunity","Libya",50000,21046.3473378789,62
+"MK","Economic Opportunity","Macedonia",2442616.79,11611.97490519,57
+"MW","Economic Opportunity","Malawi",181283.49,780.003107565482,51
+"ML","Economic Opportunity","Mali",233949.83,1641.83452128449,37
+"MR","Economic Opportunity","Mauritania",59395.8,3042.83849410548,48
+"MX","Economic Opportunity","Mexico",207507.44,16463.392673388,61
+"MD","Economic Opportunity","Moldova",1191224.1,4670.35017000535,53
+"MN","Economic Opportunity","Mongolia",157485,9434.9627693653,37
+"MZ","Economic Opportunity","Mozambique",58628,1105.07349763736,45
+"NP","Economic Opportunity","Nepal",2800.52,2244.79962842638,55
+"NI","Economic Opportunity","Nicaragua",136885,4642.69625070461,52
+"NG","Economic Opportunity","Nigeria",655947.13,5602.40879552442,51
+"PK","Economic Opportunity","Pakistan",5348155.24,4601.68894303447,64
+"PA","Economic Opportunity","Panama",206262.9,19416.2320170688,50
+"PY","Economic Opportunity","Paraguay",1055533.96,8092.67275665026,59
+"PE","Economic Opportunity","Peru",307938,11774.1883417434,44
+"PH","Economic Opportunity","Philippines",270348.54,6535.87586381471,44
+"RW","Economic Opportunity","Rwanda",1300000.07,1473.63801166274,79
+"SN","Economic Opportunity","Senegal",535838.94,2241.99652516017,48
+"SL","Economic Opportunity","Sierra Leone",414195.39,1544.18323961817,49
+"ZA","Economic Opportunity","South Africa",9636.74,12506.7494760135,33
+"SS","Economic Opportunity","South Sudan",1999996,2029.74531174235,62
+"LK","Economic Opportunity","Sri Lanka",1163547.09,9738.11917417447,76
+"SD","Economic Opportunity","Sudan, Pre-2011 Election",1350486,3372.97200690061,81
+"SZ","Economic Opportunity","Swaziland",5263.68,6685.33811734131,78
+"UG","Economic Opportunity","Uganda",123453.6,1413.15463013282,58
+"UA","Economic Opportunity","Ukraine",1471594.8,8789.98200051008,63
+"YE","Economic Opportunity","Yemen",2178699,3959.29188263281,76
+"ZM","Economic Opportunity","Zambia",470470.07,3925.46238739217,61
+"ZW","Economic Opportunity","Zimbabwe",3139763.5,1832.08324432316,73
+"AL","Education and Social Services - General","Albania",500570.17,10374.015637354,49
+"AM","Education and Social Services - General","Armenia",884139.41,7776.2860430691,62
+"AZ","Education and Social Services - General","Azerbaijan",1505075,17143.4792308476,84
+"BZ","Education and Social Services - General","Belize",653383.18,8486.89853967369,22
+"BJ","Education and Social Services - General","Benin",973876.23,1790.75363672991,36
+"BG","Education and Social Services - General","Bulgaria",885221.88,15731.6726237737,39
+"BF","Education and Social Services - General","Burkina Faso",1393389.83,1514.18622141102,44
+"KH","Education and Social Services - General","Cambodia",915419.7,3041.07709021153,66
+"CM","Education and Social Services - General","Cameroon",1306245.25,2830.12953902169,66
+"CN","Education and Social Services - General","China",2152942.8,11906.5073908244,84
+"CO","Education and Social Services - General","Colombia",1651201.81,12423.9230431716,54
+"CR","Education and Social Services - General","Costa Rica",1807784.95,13875.8563536715,18
+"DO","Education and Social Services - General","Dominican Republic",1488859.33,12186.388560558,41
+"EC","Education and Social Services - General","Ecuador",1512320.44,10889.9891270309,62
+"SV","Education and Social Services - General","El Salvador",1036166.96,7764.14274460714,39
+"ET","Education and Social Services - General","Ethiopia",1665018.72,1380.00026448913,81
+"FJ","Education and Social Services - General","Fiji",101913.38,7750.43065903864,54
+"GM","Education and Social Services - General","Gambia, The",620548.42,1661.42355399369,83
+"GE","Education and Social Services - General","Georgia",1211917.35,7176.44362639204,47
+"GH","Education and Social Services - General","Ghana",943555.19,3992.09003884754,28
+"GT","Education and Social Services - General","Guatemala",644569.47,7296.59257319642,60
+"GN","Education and Social Services - General","Guinea",982527.98,1253.08489968023,64
+"GY","Education and Social Services - General","Guyana",805772.84,6545.93223037864,34
+"ID","Education and Social Services - General","Indonesia",1464229.16,9561.12635183094,49
+"JM","Education and Social Services - General","Jamaica",1214774.76,8891.89154248426,17
+"JO","Education and Social Services - General","Jordan",1187345.57,11784.5316899264,68
+"KE","Education and Social Services - General","Kenya",1210498.18,2794.98131908266,57
+"KG","Education and Social Services - General","Kyrgyz Republic",812021.34,3212.93244119764,66
+"LS","Education and Social Services - General","Lesotho",1198224.02,2576.25549405545,47
+"LR","Education and Social Services - General","Liberia",1724326.59,877.995480056484,58
+"MK","Education and Social Services - General","Macedonia",1215345.32,11611.97490519,57
+"MG","Education and Social Services - General","Madagascar",782701.34,1413.99075673979,63
+"MW","Education and Social Services - General","Malawi",1074589.36,780.003107565482,51
+"ML","Education and Social Services - General","Mali",180.91,1641.83452128449,37
+"MX","Education and Social Services - General","Mexico",209604.22,16463.392673388,61
+"FM","Education and Social Services - General","Micronesia",965370.43,3394.64727547184,21
+"MD","Education and Social Services - General","Moldova",470115.14,4670.35017000535,53
+"MN","Education and Social Services - General","Mongolia",1982042.53,9434.9627693653,37
+"MA","Education and Social Services - General","Morocco",3626683.22,7198.16371916788,66
+"MZ","Education and Social Services - General","Mozambique",2505553.58,1105.07349763736,45
+"NA","Education and Social Services - General","Namibia",2013511.37,9583.18475656442,31
+"NI","Education and Social Services - General","Nicaragua",421404.02,4642.69625070461,52
+"PA","Education and Social Services - General","Panama",1181165.34,19416.2320170688,50
+"PY","Education and Social Services - General","Paraguay",248637.19,8092.67275665026,59
+"PE","Education and Social Services - General","Peru",1441192.88,11774.1883417434,44
+"PH","Education and Social Services - General","Philippines",2689031.37,6535.87586381471,44
+"RO","Education and Social Services - General","Romania",1027884.16,18991.3019526057,41
+"RW","Education and Social Services - General","Rwanda",1528312.7,1473.63801166274,79
+"WS","Education and Social Services - General","Samoa",701589.76,5768.98576875814,29
+"SN","Education and Social Services - General","Senegal",13582.75,2241.99652516017,48
+"SL","Education and Social Services - General","Sierra Leone",1551259.6,1544.18323961817,49
+"ZA","Education and Social Services - General","South Africa",2864916.99,12506.7494760135,33
+"SR","Education and Social Services - General","Suriname",96092.26,16071.3846314326,28
+"SZ","Education and Social Services - General","Swaziland",980629.76,6685.33811734131,78
+"TZ","Education and Social Services - General","Tanzania",1748544.26,1775.05858032604,55
+"TH","Education and Social Services - General","Thailand",2006744.63,14393.5307035565,64
+"TG","Education and Social Services - General","Togo",669452.49,1390.51971095318,65
+"TO","Education and Social Services - General","Tonga",864944.78,5304.20668898596,29
+"UG","Education and Social Services - General","Uganda",1388772.54,1413.15463013282,58
+"UA","Education and Social Services - General","Ukraine",3722052.63,8789.98200051008,63
+"VU","Education and Social Services - General","Vanuatu",1161986.41,2990.91682998287,25
+"ZM","Education and Social Services - General","Zambia",1220000.37,3925.46238739217,61
+"BD","Environment","Bangladesh",16740.65,2948.01488976887,54
+"CA","Environment","Canada",30500,43247.0443447575,19
+"DO","Environment","Dominican Republic",8.37,12186.388560558,41
+"SV","Environment","El Salvador",20090.8,7764.14274460714,39
+"ET","Environment","Ethiopia",2410.92,1380.00026448913,81
+"GH","Environment","Ghana",11720,3992.09003884754,28
+"HT","Environment","Haiti",4106.51,1703.02934940234,50
+"JM","Environment","Jamaica",79.52,8891.89154248426,17
+"KE","Environment","Kenya",104234.68,2794.98131908266,57
+"LR","Environment","Liberia",1674,877.995480056484,58
+"MW","Environment","Malawi",56142.98,780.003107565482,51
+"ML","Environment","Mali",4569.62,1641.83452128449,37
+"MX","Environment","Mexico",40000,16463.392673388,61
+"MZ","Environment","Mozambique",118892.05,1105.07349763736,45
+"NP","Environment","Nepal",28790.01,2244.79962842638,55
+"NZ","Environment","New Zealand",30000,34825.7083942145,18
+"NI","Environment","Nicaragua",1627.2,4642.69625070461,52
+"PA","Environment","Panama",690.02,19416.2320170688,50
+"PH","Environment","Philippines",13469.71,6535.87586381471,44
+"RW","Environment","Rwanda",8625.23,1473.63801166274,79
+"SN","Environment","Senegal",7560.31,2241.99652516017,48
+"ZA","Environment","South Africa",802.16,12506.7494760135,33
+"TZ","Environment","Tanzania",100565.59,1775.05858032604,55
+"UG","Environment","Uganda",22650.05,1413.15463013282,58
+"GB","Environment","United Kingdom",55735,38451.6571582051,23
+"AM","Environment - General","Armenia",18580.86,7776.2860430691,62
+"BJ","Environment - General","Benin",718568.33,1790.75363672991,36
+"CM","Environment - General","Cameroon",844693.37,2830.12953902169,66
+"CR","Environment - General","Costa Rica",7702.36,13875.8563536715,18
+"DO","Environment - General","Dominican Republic",533351.62,12186.388560558,41
+"EC","Environment - General","Ecuador",680334.47,10889.9891270309,62
+"SV","Environment - General","El Salvador",74782.6,7764.14274460714,39
+"ET","Environment - General","Ethiopia",544056.92,1380.00026448913,81
+"FJ","Environment - General","Fiji",293001.05,7750.43065903864,54
+"GM","Environment - General","Gambia, The",495951.41,1661.42355399369,83
+"GH","Environment - General","Ghana",410413.52,3992.09003884754,28
+"GT","Environment - General","Guatemala",193614.4,7296.59257319642,60
+"GN","Environment - General","Guinea",338972.17,1253.08489968023,64
+"GY","Environment - General","Guyana",-0.35,6545.93223037864,34
+"JM","Environment - General","Jamaica",821176.42,8891.89154248426,17
+"MK","Environment - General","Macedonia",20397.38,11611.97490519,57
+"MG","Environment - General","Madagascar",531800.56,1413.99075673979,63
+"MW","Environment - General","Malawi",1000084.72,780.003107565482,51
+"MX","Environment - General","Mexico",880808.79,16463.392673388,61
+"MA","Environment - General","Morocco",220262.5,7198.16371916788,66
+"NI","Environment - General","Nicaragua",443222.73,4642.69625070461,52
+"PA","Environment - General","Panama",1417281.23,19416.2320170688,50
+"PY","Environment - General","Paraguay",821778.42,8092.67275665026,59
+"PE","Environment - General","Peru",868184.63,11774.1883417434,44
+"PH","Environment - General","Philippines",569245.11,6535.87586381471,44
+"RO","Environment - General","Romania",25697.11,18991.3019526057,41
+"SN","Environment - General","Senegal",2216516.31,2241.99652516017,48
+"ZA","Environment - General","South Africa",32388.57,12506.7494760135,33
+"SR","Environment - General","Suriname",12612.26,16071.3846314326,28
+"TZ","Environment - General","Tanzania",172289.55,1775.05858032604,55
+"TG","Environment - General","Togo",753134.03,1390.51971095318,65
+"ZM","Environment - General","Zambia",2032603.88,3925.46238739217,61
+"AF","Family Planning and Reproductive Health","Afghanistan",10884742.73,1946.19380603184,66
+"AL","Family Planning and Reproductive Health","Albania",1513413,10374.015637354,49
+"AO","Family Planning and Reproductive Health","Angola",1640668.46,7736.17468163313,69
+"AM","Family Planning and Reproductive Health","Armenia",7e+05,7776.2860430691,62
+"AZ","Family Planning and Reproductive Health","Azerbaijan",859306,17143.4792308476,84
+"BD","Family Planning and Reproductive Health","Bangladesh",12737409.93,2948.01488976887,54
+"BJ","Family Planning and Reproductive Health","Benin",1417288.94,1790.75363672991,36
+"BO","Family Planning and Reproductive Health","Bolivia",7559825.49,6131.06168856137,48
+"KH","Family Planning and Reproductive Health","Cambodia",7022509.19,3041.07709021153,66
+"CD","Family Planning and Reproductive Health","Congo, Democratic Republic of",6532041.2,809.217533443526,79
+"DO","Family Planning and Reproductive Health","Dominican Republic",196592.9,12186.388560558,41
+"SV","Family Planning and Reproductive Health","El Salvador",529439.03,7764.14274460714,39
+"ET","Family Planning and Reproductive Health","Ethiopia",18659487.91,1380.00026448913,81
+"GE","Family Planning and Reproductive Health","Georgia",409388.22,7176.44362639204,47
+"GH","Family Planning and Reproductive Health","Ghana",10605457.16,3992.09003884754,28
+"GT","Family Planning and Reproductive Health","Guatemala",6690033.9,7296.59257319642,60
+"GN","Family Planning and Reproductive Health","Guinea",2924527.11,1253.08489968023,64
+"HT","Family Planning and Reproductive Health","Haiti",15550396.58,1703.02934940234,50
+"HN","Family Planning and Reproductive Health","Honduras",2804722.81,4592.59339927457,64
+"IN","Family Planning and Reproductive Health","India",19001371.08,5411.61554629181,39
+"JO","Family Planning and Reproductive Health","Jordan",21584625.88,11784.5316899264,68
+"KZ","Family Planning and Reproductive Health","Kazakhstan",73537.54,23211.312265251,85
+"KE","Family Planning and Reproductive Health","Kenya",25474887.46,2794.98131908266,57
+"KG","Family Planning and Reproductive Health","Kyrgyz Republic",63791.9,3212.93244119764,66
+"LS","Family Planning and Reproductive Health","Lesotho",78550.16,2576.25549405545,47
+"LR","Family Planning and Reproductive Health","Liberia",3823433.19,877.995480056484,58
+"MG","Family Planning and Reproductive Health","Madagascar",10809349.95,1413.99075673979,63
+"MW","Family Planning and Reproductive Health","Malawi",11732387.46,780.003107565482,51
+"ML","Family Planning and Reproductive Health","Mali",7909616.21,1641.83452128449,37
+"MZ","Family Planning and Reproductive Health","Mozambique",9664233.88,1105.07349763736,45
+"NP","Family Planning and Reproductive Health","Nepal",9499252.27,2244.79962842638,55
+"NI","Family Planning and Reproductive Health","Nicaragua",2425630.1,4642.69625070461,52
+"NG","Family Planning and Reproductive Health","Nigeria",19996440.61,5602.40879552442,51
+"PK","Family Planning and Reproductive Health","Pakistan",30281843.77,4601.68894303447,64
+"PY","Family Planning and Reproductive Health","Paraguay",143663.42,8092.67275665026,59
+"PE","Family Planning and Reproductive Health","Peru",2547887.53,11774.1883417434,44
+"PH","Family Planning and Reproductive Health","Philippines",20464112.58,6535.87586381471,44
+"RW","Family Planning and Reproductive Health","Rwanda",7661220.95,1473.63801166274,79
+"SN","Family Planning and Reproductive Health","Senegal",11406801.05,2241.99652516017,48
+"ZA","Family Planning and Reproductive Health","South Africa",1552083.75,12506.7494760135,33
+"SS","Family Planning and Reproductive Health","South Sudan",5686071.06,2029.74531174235,62
+"SD","Family Planning and Reproductive Health","Sudan, Pre-2011 Election",35075.47,3372.97200690061,81
+"TJ","Family Planning and Reproductive Health","Tajikistan",168462.4,2512.24756635,80
+"TZ","Family Planning and Reproductive Health","Tanzania",15516339.45,1775.05858032604,55
+"TM","Family Planning and Reproductive Health","Turkmenistan",34124.53,14004.160056658,95
+"UG","Family Planning and Reproductive Health","Uganda",27825970.54,1413.15463013282,58
+"UA","Family Planning and Reproductive Health","Ukraine",1433031.82,8789.98200051008,63
+"UZ","Family Planning and Reproductive Health","Uzbekistan",-18620.86,5168.28603457276,95
+"YE","Family Planning and Reproductive Health","Yemen",4154311.2,3959.29188263281,76
+"ZM","Family Planning and Reproductive Health","Zambia",9886285.34,3925.46238739217,61
+"ZW","Family Planning and Reproductive Health","Zimbabwe",3273867.65,1832.08324432316,73
+"AF","Financial Sector","Afghanistan",4509309.53,1946.19380603184,66
+"AL","Financial Sector","Albania",931923.8,10374.015637354,49
+"DZ","Financial Sector","Algeria",1479.25,13320.2321901285,59
+"AO","Financial Sector","Angola",352383.49,7736.17468163313,69
+"AM","Financial Sector","Armenia",1373126.5,7776.2860430691,62
+"AZ","Financial Sector","Azerbaijan",1374169.44,17143.4792308476,84
+"BJ","Financial Sector","Benin",8473.56,1790.75363672991,36
+"BA","Financial Sector","Bosnia and Herzegovina",147542.96,9535.5397905006,50
+"BI","Financial Sector","Burundi",50410,771.71542954274,74
+"KH","Financial Sector","Cambodia",1279336.06,3041.07709021153,66
+"CO","Financial Sector","Colombia",234810.55,12423.9230431716,54
+"CR","Financial Sector","Costa Rica",9894.4,13875.8563536715,18
+"CI","Financial Sector","Cote d'Ivoire",6905.45,3210.45464438594,55
+"DJ","Financial Sector","Djibouti",22529.82,2998.74058570901,75
+"DO","Financial Sector","Dominican Republic",215832.71,12186.388560558,41
+"EG","Financial Sector","Egypt",301691244.5,11089.2111773151,68
+"SV","Financial Sector","El Salvador",1918561.26,7764.14274460714,39
+"ET","Financial Sector","Ethiopia",438759.76,1380.00026448913,81
+"GE","Financial Sector","Georgia",2705993.85,7176.44362639204,47
+"GH","Financial Sector","Ghana",675312.41,3992.09003884754,28
+"GT","Financial Sector","Guatemala",752548.17,7296.59257319642,60
+"GN","Financial Sector","Guinea",-3917.2,1253.08489968023,64
+"GY","Financial Sector","Guyana",6466.54,6545.93223037864,34
+"HT","Financial Sector","Haiti",3736309.49,1703.02934940234,50
+"HN","Financial Sector","Honduras",738766.56,4592.59339927457,64
+"IN","Financial Sector","India",2808.52,5411.61554629181,39
+"ID","Financial Sector","Indonesia",4762489.79,9561.12635183094,49
+"IQ","Financial Sector","Iraq",13001243,14951.0776794266,69
+"IL","Financial Sector","Israel",107553030,32490.6207427851,30
+"KZ","Financial Sector","Kazakhstan",433408.8,23211.312265251,85
+"KE","Financial Sector","Kenya",1174.53,2794.98131908266,57
+"KG","Financial Sector","Kyrgyz Republic",950000,3212.93244119764,66
+"LS","Financial Sector","Lesotho",282509.26,2576.25549405545,47
+"LR","Financial Sector","Liberia",100721.19,877.995480056484,58
+"LY","Financial Sector","Libya",10297.88,21046.3473378789,62
+"ML","Financial Sector","Mali",147855.94,1641.83452128449,37
+"MD","Financial Sector","Moldova",152335.87,4670.35017000535,53
+"MN","Financial Sector","Mongolia",1692582.06,9434.9627693653,37
+"MA","Financial Sector","Morocco",13525193.87,7198.16371916788,66
+"NP","Financial Sector","Nepal",19308.08,2244.79962842638,55
+"NE","Financial Sector","Niger",4282.52,916.199691229844,52
+"NG","Financial Sector","Nigeria",919783.76,5602.40879552442,51
+"PK","Financial Sector","Pakistan",-252468.66,4601.68894303447,64
+"PE","Financial Sector","Peru",374684.9,11774.1883417434,44
+"PH","Financial Sector","Philippines",354475.21,6535.87586381471,44
+"RW","Financial Sector","Rwanda",177253.4,1473.63801166274,79
+"SN","Financial Sector","Senegal",423819.47,2241.99652516017,48
+"ZA","Financial Sector","South Africa",1237161.78,12506.7494760135,33
+"TZ","Financial Sector","Tanzania",475844.25,1775.05858032604,55
+"TN","Financial Sector","Tunisia",18210817.49,11124.4960087614,53
+"TR","Financial Sector","Turkey",214235.6,19020.0650632949,62
+"TM","Financial Sector","Turkmenistan",319040.6,14004.160056658,95
+"UG","Financial Sector","Uganda",355679.85,1413.15463013282,58
+"UA","Financial Sector","Ukraine",2873223.1,8789.98200051008,63
+"UY","Financial Sector","Uruguay",73185.07,19594.3695607622,26
+"VN","Financial Sector","Vietnam",1022097.48,5294.43986933333,84
+"YE","Financial Sector","Yemen",73825.1,3959.29188263281,76
+"ZM","Financial Sector","Zambia",2673718.09,3925.46238739217,61
+"AF","Good Governance","Afghanistan",150901833.75,1946.19380603184,66
+"AL","Good Governance","Albania",2204435.03,10374.015637354,49
+"AO","Good Governance","Angola",166442.17,7736.17468163313,69
+"AM","Good Governance","Armenia",2760334.3,7776.2860430691,62
+"AZ","Good Governance","Azerbaijan",221789.8,17143.4792308476,84
+"BD","Good Governance","Bangladesh",10354962.2,2948.01488976887,54
+"BO","Good Governance","Bolivia",153963.73,6131.06168856137,48
+"BA","Good Governance","Bosnia and Herzegovina",3537754.26,9535.5397905006,50
+"BF","Good Governance","Burkina Faso",256852.8,1514.18622141102,44
+"BI","Good Governance","Burundi",387543,771.71542954274,74
+"KH","Good Governance","Cambodia",0,3041.07709021153,66
+"CF","Good Governance","Central African Republic",0,603.742959794015,77
+"CO","Good Governance","Colombia",3811468.82,12423.9230431716,54
+"CD","Good Governance","Congo, Democratic Republic of",7295821.4,809.217533443526,79
+"CI","Good Governance","Cote d`Ivoire",327726,3210.45464438594,55
+"DJ","Good Governance","Djibouti",39249.7,2998.74058570901,75
+"DO","Good Governance","Dominican Republic",754923.29,12186.388560558,41
+"EC","Good Governance","Ecuador",1581218.21,10889.9891270309,62
+"EG","Good Governance","Egypt",2875128.75,11089.2111773151,68
+"SV","Good Governance","El Salvador",7803306.56,7764.14274460714,39
+"ET","Good Governance","Ethiopia",10892.18,1380.00026448913,81
+"GE","Good Governance","Georgia",6498623.6,7176.44362639204,47
+"GH","Good Governance","Ghana",2808684.73,3992.09003884754,28
+"GT","Good Governance","Guatemala",7155703.34,7296.59257319642,60
+"GN","Good Governance","Guinea",2305101.1,1253.08489968023,64
+"GY","Good Governance","Guyana",19448.9,6545.93223037864,34
+"HT","Good Governance","Haiti",15502827.51,1703.02934940234,50
+"HN","Good Governance","Honduras",11394462.53,4592.59339927457,64
+"ID","Good Governance","Indonesia",17086010.12,9561.12635183094,49
+"IQ","Good Governance","Iraq",59828913.7,14951.0776794266,69
+"JM","Good Governance","Jamaica",1912681.22,8891.89154248426,17
+"JO","Good Governance","Jordan",4492881.2,11784.5316899264,68
+"KZ","Good Governance","Kazakhstan",16925,23211.312265251,85
+"KE","Good Governance","Kenya",7355775.24,2794.98131908266,57
+"KG","Good Governance","Kyrgyz Republic",4011784.78,3212.93244119764,66
+"LB","Good Governance","Lebanon",1985710.7,17173.8422362362,53
+"LS","Good Governance","Lesotho",169500.2,2576.25549405545,47
+"LR","Good Governance","Liberia",13428385.08,877.995480056484,58
+"MK","Good Governance","Macedonia",306697.5,11611.97490519,57
+"MW","Good Governance","Malawi",-3889,780.003107565482,51
+"ML","Good Governance","Mali",728392.62,1641.83452128449,37
+"MR","Good Governance","Mauritania",-102.68,3042.83849410548,48
+"MX","Good Governance","Mexico",6082158.3,16463.392673388,61
+"MD","Good Governance","Moldova",2179318,4670.35017000535,53
+"MN","Good Governance","Mongolia",2933703.28,9434.9627693653,37
+"ME","Good Governance","Montenegro",2218103.92,14131.6050000068,39
+"MA","Good Governance","Morocco",2871127.82,7198.16371916788,66
+"MZ","Good Governance","Mozambique",1061071.69,1105.07349763736,45
+"NP","Good Governance","Nepal",925000,2244.79962842638,55
+"NI","Good Governance","Nicaragua",1365975.6,4642.69625070461,52
+"NE","Good Governance","Niger",1001201,916.199691229844,52
+"NG","Good Governance","Nigeria",7603060.78,5602.40879552442,51
+"PK","Good Governance","Pakistan",49487765.49,4601.68894303447,64
+"PA","Good Governance","Panama",2450715.23,19416.2320170688,50
+"PY","Good Governance","Paraguay",3791815,8092.67275665026,59
+"PE","Good Governance","Peru",1619368.99,11774.1883417434,44
+"PH","Good Governance","Philippines",2274560.91,6535.87586381471,44
+"RW","Good Governance","Rwanda",2596292.92,1473.63801166274,79
+"SN","Good Governance","Senegal",2600026.9,2241.99652516017,48
+"RS","Good Governance","Serbia",1831384.1,13020.1042341046,37
+"SL","Good Governance","Sierra Leone",-22821.92,1544.18323961817,49
+"ZA","Good Governance","South Africa",20917.69,12506.7494760135,33
+"SS","Good Governance","South Sudan",27301845.5,2029.74531174235,62
+"LK","Good Governance","Sri Lanka",774106.3,9738.11917417447,76
+"SD","Good Governance","Sudan, Pre-2011 Election",2552060.8,3372.97200690061,81
+"TJ","Good Governance","Tajikistan",1846663.2,2512.24756635,80
+"TZ","Good Governance","Tanzania",593629.11,1775.05858032604,55
+"TH","Good Governance","Thailand",2279789,14393.5307035565,64
+"TN","Good Governance","Tunisia",652136,11124.4960087614,53
+"TM","Good Governance","Turkmenistan",713126,14004.160056658,95
+"UG","Good Governance","Uganda",1563307.4,1413.15463013282,58
+"UA","Good Governance","Ukraine",4913101.2,8789.98200051008,63
+"UZ","Good Governance","Uzbekistan",296471.24,5168.28603457276,95
+"VN","Good Governance","Vietnam",2042546.8,5294.43986933333,84
+"YE","Good Governance","Yemen",22446850.37,3959.29188263281,76
+"ZM","Good Governance","Zambia",1807395.51,3925.46238739217,61
+"ZW","Good Governance","Zimbabwe",1721383.5,1832.08324432316,73
+"AF","HIV/AIDS","Afghanistan",569,1946.19380603184,66
+"AO","HIV/AIDS","Angola",12528722.73,7736.17468163313,69
+"AM","HIV/AIDS","Armenia",3792.04,7776.2860430691,62
+"BD","HIV/AIDS","Bangladesh",2378214.13,2948.01488976887,54
+"BZ","HIV/AIDS","Belize",4863.74,8486.89853967369,22
+"BJ","HIV/AIDS","Benin",365821.9,1790.75363672991,36
+"BW","HIV/AIDS","Botswana",45915624.83,15751.9022060328,41
+"BR","HIV/AIDS","Brazil",2206208.68,15037.4574693446,45
+"BI","HIV/AIDS","Burundi",6210663.33,771.71542954274,74
+"KH","HIV/AIDS","Cambodia",8250270.96,3041.07709021153,66
+"CM","HIV/AIDS","Cameroon",10748167.18,2830.12953902169,66
+"CV","HIV/AIDS","Cape Verde",-872.23,6416.317160988,27
+"CN","HIV/AIDS","China",9174501.14,11906.5073908244,84
+"CD","HIV/AIDS","Congo, Democratic Republic of",41871002.9,809.217533443526,79
+"CR","HIV/AIDS","Costa Rica",21152.65,13875.8563536715,18
+"CI","HIV/AIDS","Cote d`Ivoire",61497654.51,3210.45464438594,55
+"DJ","HIV/AIDS","Djibouti",665779.5,2998.74058570901,75
+"DO","HIV/AIDS","Dominican Republic",15554639.32,12186.388560558,41
+"SV","HIV/AIDS","El Salvador",1134015.29,7764.14274460714,39
+"ET","HIV/AIDS","Ethiopia",159770277.51,1380.00026448913,81
+"GM","HIV/AIDS","Gambia, The",9084.78,1661.42355399369,83
+"GE","HIV/AIDS","Georgia",575380.51,7176.44362639204,47
+"GH","HIV/AIDS","Ghana",14636954.02,3992.09003884754,28
+"GT","HIV/AIDS","Guatemala",5515364.27,7296.59257319642,60
+"GN","HIV/AIDS","Guinea",1749907.17,1253.08489968023,64
+"GY","HIV/AIDS","Guyana",6204988.53,6545.93223037864,34
+"HT","HIV/AIDS","Haiti",94110262.98,1703.02934940234,50
+"HN","HIV/AIDS","Honduras",5092226.52,4592.59339927457,64
+"IN","HIV/AIDS","India",18312922.16,5411.61554629181,39
+"ID","HIV/AIDS","Indonesia",9589970.16,9561.12635183094,49
+"JM","HIV/AIDS","Jamaica",4163484.17,8891.89154248426,17
+"KZ","HIV/AIDS","Kazakhstan",4518681.58,23211.312265251,85
+"KE","HIV/AIDS","Kenya",419975176.37,2794.98131908266,57
+"KG","HIV/AIDS","Kyrgyz Republic",416771.18,3212.93244119764,66
+"LA","HIV/AIDS","Laos",7083.12,4822.02207368924,84
+"LS","HIV/AIDS","Lesotho",32860283.36,2576.25549405545,47
+"LR","HIV/AIDS","Liberia",5331016.87,877.995480056484,58
+"MG","HIV/AIDS","Madagascar",1067574.94,1413.99075673979,63
+"MW","HIV/AIDS","Malawi",53703170.98,780.003107565482,51
+"ML","HIV/AIDS","Mali",5931543.2,1641.83452128449,37
+"MX","HIV/AIDS","Mexico",1764146.11,16463.392673388,61
+"MD","HIV/AIDS","Moldova",6694.54,4670.35017000535,53
+"MA","HIV/AIDS","Morocco",327.98,7198.16371916788,66
+"MZ","HIV/AIDS","Mozambique",189935520.57,1105.07349763736,45
+"NA","HIV/AIDS","Namibia",50818504.88,9583.18475656442,31
+"NP","HIV/AIDS","Nepal",2674252.54,2244.79962842638,55
+"NI","HIV/AIDS","Nicaragua",1040545.92,4642.69625070461,52
+"NG","HIV/AIDS","Nigeria",297093135.24,5602.40879552442,51
+"PK","HIV/AIDS","Pakistan",539574.15,4601.68894303447,64
+"PA","HIV/AIDS","Panama",26325.97,19416.2320170688,50
+"PG","HIV/AIDS","Papua New Guinea",3813173.88,2539.08170427106,29
+"PY","HIV/AIDS","Paraguay",7908.26,8092.67275665026,59
+"PE","HIV/AIDS","Peru",422030.09,11774.1883417434,44
+"PH","HIV/AIDS","Philippines",183653.45,6535.87586381471,44
+"RU","HIV/AIDS","Russia",311114.48,24114.0880976422,81
+"RW","HIV/AIDS","Rwanda",56244321.35,1473.63801166274,79
+"SN","HIV/AIDS","Senegal",4579971.34,2241.99652516017,48
+"SL","HIV/AIDS","Sierra Leone",249008,1544.18323961817,49
+"ZA","HIV/AIDS","South Africa",369413319.61,12506.7494760135,33
+"SS","HIV/AIDS","South Sudan",6043542.38,2029.74531174235,62
+"SD","HIV/AIDS","Sudan",2988012,3372.97200690061,81
+"SD","HIV/AIDS","Sudan, Pre-2011 Election",438334.83,3372.97200690061,81
+"SR","HIV/AIDS","Suriname",27610.72,16071.3846314326,28
+"SZ","HIV/AIDS","Swaziland",35117274.49,6685.33811734131,78
+"CH","HIV/AIDS","Switzerland",764172.86,56564.9359472129,12
+"TJ","HIV/AIDS","Tajikistan",259556.47,2512.24756635,80
+"TZ","HIV/AIDS","Tanzania",244203729.08,1775.05858032604,55
+"TH","HIV/AIDS","Thailand",9729940.55,14393.5307035565,64
+"TG","HIV/AIDS","Togo",3616.16,1390.51971095318,65
+"TM","HIV/AIDS","Turkmenistan",191432.48,14004.160056658,95
+"UG","HIV/AIDS","Uganda",261337119.86,1413.15463013282,58
+"UA","HIV/AIDS","Ukraine",10786007.39,8789.98200051008,63
+"UZ","HIV/AIDS","Uzbekistan",754316.15,5168.28603457276,95
+"VU","HIV/AIDS","Vanuatu",15736.32,2990.91682998287,25
+"VN","HIV/AIDS","Vietnam",41114356.19,5294.43986933333,84
+"ZM","HIV/AIDS","Zambia",177183924.84,3925.46238739217,61
+"ZW","HIV/AIDS","Zimbabwe",45761803.82,1832.08324432316,73
+"AF","Health - General","Afghanistan",399898.8,1946.19380603184,66
+"AL","Health - General","Albania",470844.33,10374.015637354,49
+"AO","Health - General","Angola",863801.28,7736.17468163313,69
+"BD","Health - General","Bangladesh",472364.66,2948.01488976887,54
+"BZ","Health - General","Belize",464544.14,8486.89853967369,22
+"BJ","Health - General","Benin",730921.91,1790.75363672991,36
+"BW","Health - General","Botswana",4834963.47,15751.9022060328,41
+"BR","Health - General","Brazil",10021.3,15037.4574693446,45
+"BF","Health - General","Burkina Faso",617261.77,1514.18622141102,44
+"KH","Health - General","Cambodia",916942.54,3041.07709021153,66
+"CM","Health - General","Cameroon",1230559.6,2830.12953902169,66
+"CN","Health - General","China",762418.1,11906.5073908244,84
+"CD","Health - General","Congo, Democratic Republic of",469407.9,809.217533443526,79
+"CG","Health - General","Congo, Republic of",2156.38,5868.48055101527,57
+"DO","Health - General","Dominican Republic",762941.5,12186.388560558,41
+"EC","Health - General","Ecuador",628834.27,10889.9891270309,62
+"SV","Health - General","El Salvador",325723.69,7764.14274460714,39
+"ET","Health - General","Ethiopia",147675.96,1380.00026448913,81
+"FJ","Health - General","Fiji",945246.83,7750.43065903864,54
+"GM","Health - General","Gambia, The",359086.49,1661.42355399369,83
+"GE","Health - General","Georgia",1875748.84,7176.44362639204,47
+"GH","Health - General","Ghana",1161617.97,3992.09003884754,28
+"GT","Health - General","Guatemala",2078199.14,7296.59257319642,60
+"GN","Health - General","Guinea",189955.42,1253.08489968023,64
+"GY","Health - General","Guyana",666475.75,6545.93223037864,34
+"HT","Health - General","Haiti",16369586.74,1703.02934940234,50
+"IN","Health - General","India",728013.9,5411.61554629181,39
+"ID","Health - General","Indonesia",4175.54,9561.12635183094,49
+"IQ","Health - General","Iraq",20790.46,14951.0776794266,69
+"IT","Health - General","Italy",11409.82,35597.3160550274,31
+"JM","Health - General","Jamaica",45306.3,8891.89154248426,17
+"JO","Health - General","Jordan",254214.38,11784.5316899264,68
+"KZ","Health - General","Kazakhstan",2640979.66,23211.312265251,85
+"KE","Health - General","Kenya",3701439.36,2794.98131908266,57
+"KG","Health - General","Kyrgyz Republic",260459.68,3212.93244119764,66
+"LS","Health - General","Lesotho",103258.08,2576.25549405545,47
+"LR","Health - General","Liberia",117486,877.995480056484,58
+"MG","Health - General","Madagascar",430894.8,1413.99075673979,63
+"MW","Health - General","Malawi",1457553.92,780.003107565482,51
+"MX","Health - General","Mexico",80190.38,16463.392673388,61
+"MD","Health - General","Moldova",400252.83,4670.35017000535,53
+"MN","Health - General","Mongolia",381527.35,9434.9627693653,37
+"MA","Health - General","Morocco",351808.15,7198.16371916788,66
+"MZ","Health - General","Mozambique",342875.76,1105.07349763736,45
+"NP","Health - General","Nepal",241724.44,2244.79962842638,55
+"NI","Health - General","Nicaragua",685833.89,4642.69625070461,52
+"NG","Health - General","Nigeria",653780,5602.40879552442,51
+"PK","Health - General","Pakistan",549640.88,4601.68894303447,64
+"PA","Health - General","Panama",537235.59,19416.2320170688,50
+"PY","Health - General","Paraguay",943691.16,8092.67275665026,59
+"PE","Health - General","Peru",1954742.15,11774.1883417434,44
+"RW","Health - General","Rwanda",58525.3,1473.63801166274,79
+"SN","Health - General","Senegal",1239287.92,2241.99652516017,48
+"ZA","Health - General","South Africa",2626621.31,12506.7494760135,33
+"SR","Health - General","Suriname",253958.12,16071.3846314326,28
+"SZ","Health - General","Swaziland",436091.82,6685.33811734131,78
+"TJ","Health - General","Tajikistan",3667.58,2512.24756635,80
+"TZ","Health - General","Tanzania",601061.41,1775.05858032604,55
+"TH","Health - General","Thailand",12303350.84,14393.5307035565,64
+"TG","Health - General","Togo",597079.23,1390.51971095318,65
+"UG","Health - General","Uganda",2483819,1413.15463013282,58
+"UZ","Health - General","Uzbekistan",283253.94,5168.28603457276,95
+"VU","Health - General","Vanuatu",906721.67,2990.91682998287,25
+"VN","Health - General","Vietnam",258319.04,5294.43986933333,84
+"ZM","Health - General","Zambia",118051.13,3925.46238739217,61
+"ZW","Health - General","Zimbabwe",137475.36,1832.08324432316,73
+"AF","Higher Education","Afghanistan",16587387.63,1946.19380603184,66
+"AM","Higher Education","Armenia",91694.6,7776.2860430691,62
+"BO","Higher Education","Bolivia",102079,6131.06168856137,48
+"BG","Higher Education","Bulgaria",318156.99,15731.6726237737,39
+"CN","Higher Education","China",317174.38,11906.5073908244,84
+"CR","Higher Education","Costa Rica",917896.9,13875.8563536715,18
+"CZ","Higher Education","Czech Republic",109547,28769.8577721051,20
+"EG","Higher Education","Egypt",9066005.87,11089.2111773151,68
+"SV","Higher Education","El Salvador",51538.54,7764.14274460714,39
+"ET","Higher Education","Ethiopia",431426.6,1380.00026448913,81
+"GE","Higher Education","Georgia",770000,7176.44362639204,47
+"GH","Higher Education","Ghana",812882.71,3992.09003884754,28
+"GR","Higher Education","Greece",581574.5,25705.0373896157,46
+"GT","Higher Education","Guatemala",256084,7296.59257319642,60
+"HT","Higher Education","Haiti",73848.91,1703.02934940234,50
+"HN","Higher Education","Honduras",303580.3,4592.59339927457,64
+"IN","Higher Education","India",583509.7,5411.61554629181,39
+"ID","Higher Education","Indonesia",8840931.48,9561.12635183094,49
+"IL","Higher Education","Israel",241316.6,32490.6207427851,30
+"KE","Higher Education","Kenya",1071053.02,2794.98131908266,57
+"KG","Higher Education","Kyrgyz Republic",365804.3,3212.93244119764,66
+"LB","Higher Education","Lebanon",10534561.33,17173.8422362362,53
+"LR","Higher Education","Liberia",836337.79,877.995480056484,58
+"MW","Higher Education","Malawi",408848,780.003107565482,51
+"MX","Higher Education","Mexico",672009.58,16463.392673388,61
+"NA","Higher Education","Namibia",279022.62,9583.18475656442,31
+"NG","Higher Education","Nigeria",70004,5602.40879552442,51
+"PK","Higher Education","Pakistan",5667166.3,4601.68894303447,64
+"PH","Higher Education","Philippines",2231049.6,6535.87586381471,44
+"SN","Higher Education","Senegal",599849.09,2241.99652516017,48
+"SL","Higher Education","Sierra Leone",181299.4,1544.18323961817,49
+"ZA","Higher Education","South Africa",512355,12506.7494760135,33
+"SS","Higher Education","South Sudan",1103241,2029.74531174235,62
+"SD","Higher Education","Sudan, Pre-2011 Election",744801.4,3372.97200690061,81
+"TZ","Higher Education","Tanzania",294939,1775.05858032604,55
+"TR","Higher Education","Turkey",62393,19020.0650632949,62
+"TM","Higher Education","Turkmenistan",218611.9,14004.160056658,95
+"UG","Higher Education","Uganda",296316.3,1413.15463013282,58
+"UA","Higher Education","Ukraine",2494.57,8789.98200051008,63
+"UY","Higher Education","Uruguay",117887,19594.3695607622,26
+"VN","Higher Education","Vietnam",2040228.6,5294.43986933333,84
+"BD","Humanitarian Assistance - General","Bangladesh",16041,2948.01488976887,54
+"BZ","Humanitarian Assistance - General","Belize",1602015,8486.89853967369,22
+"BG","Humanitarian Assistance - General","Bulgaria",51526,15731.6726237737,39
+"CM","Humanitarian Assistance - General","Cameroon",93350,2830.12953902169,66
+"HR","Humanitarian Assistance - General","Croatia",71791,21365.5824631022,40
+"DO","Humanitarian Assistance - General","Dominican Republic",40377,12186.388560558,41
+"SV","Humanitarian Assistance - General","El Salvador",862102,7764.14274460714,39
+"GE","Humanitarian Assistance - General","Georgia",25791,7176.44362639204,47
+"GH","Humanitarian Assistance - General","Ghana",90000,3992.09003884754,28
+"GT","Humanitarian Assistance - General","Guatemala",30000,7296.59257319642,60
+"GY","Humanitarian Assistance - General","Guyana",41000,6545.93223037864,34
+"HN","Humanitarian Assistance - General","Honduras",275101,4592.59339927457,64
+"KE","Humanitarian Assistance - General","Kenya",370000,2794.98131908266,57
+"LV","Humanitarian Assistance - General","Latvia",128358,22560.2299095174,27
+"MR","Humanitarian Assistance - General","Mauritania",155100,3042.83849410548,48
+"MD","Humanitarian Assistance - General","Moldova",28574,4670.35017000535,53
+"MN","Humanitarian Assistance - General","Mongolia",170000,9434.9627693653,37
+"MA","Humanitarian Assistance - General","Morocco",215000,7198.16371916788,66
+"NE","Humanitarian Assistance - General","Niger",10000,916.199691229844,52
+"NG","Humanitarian Assistance - General","Nigeria",9819,5602.40879552442,51
+"PA","Humanitarian Assistance - General","Panama",990357,19416.2320170688,50
+"PE","Humanitarian Assistance - General","Peru",30000,11774.1883417434,44
+"PH","Humanitarian Assistance - General","Philippines",511504,6535.87586381471,44
+"RO","Humanitarian Assistance - General","Romania",464045,18991.3019526057,41
+"SN","Humanitarian Assistance - General","Senegal",44833,2241.99652516017,48
+"ZA","Humanitarian Assistance - General","South Africa",220000,12506.7494760135,33
+"TH","Humanitarian Assistance - General","Thailand",371257,14393.5307035565,64
+"UG","Humanitarian Assistance - General","Uganda",341000,1413.15463013282,58
+"UA","Humanitarian Assistance - General","Ukraine",11137,8789.98200051008,63
+"AF","Infrastructure","Afghanistan",360304188.32,1946.19380603184,66
+"AL","Infrastructure","Albania",996455.58,10374.015637354,49
+"AM","Infrastructure","Armenia",2683926.89,7776.2860430691,62
+"BD","Infrastructure","Bangladesh",106821.8,2948.01488976887,54
+"BR","Infrastructure","Brazil",1080240,15037.4574693446,45
+"BF","Infrastructure","Burkina Faso",60255155.92,1514.18622141102,44
+"EG","Infrastructure","Egypt",219369.8,11089.2111773151,68
+"SV","Infrastructure","El Salvador",15500852.2,7764.14274460714,39
+"GE","Infrastructure","Georgia",40647871.16,7176.44362639204,47
+"GH","Infrastructure","Ghana",3149883.46,3992.09003884754,28
+"HT","Infrastructure","Haiti",18897769.73,1703.02934940234,50
+"IN","Infrastructure","India",375110.87,5411.61554629181,39
+"ID","Infrastructure","Indonesia",10064350.62,9561.12635183094,49
+"JO","Infrastructure","Jordan",1648250.87,11784.5316899264,68
+"KZ","Infrastructure","Kazakhstan",149246.4,23211.312265251,85
+"KG","Infrastructure","Kyrgyz Republic",1220414.3,3212.93244119764,66
+"LR","Infrastructure","Liberia",5140553.3,877.995480056484,58
+"MK","Infrastructure","Macedonia",523622,11611.97490519,57
+"MW","Infrastructure","Malawi",280770.4,780.003107565482,51
+"ML","Infrastructure","Mali",4743646.35,1641.83452128449,37
+"MD","Infrastructure","Moldova",22377776.63,4670.35017000535,53
+"MN","Infrastructure","Mongolia",42823990.6,9434.9627693653,37
+"MZ","Infrastructure","Mozambique",65342659.84,1105.07349763736,45
+"NP","Infrastructure","Nepal",5087.57,2244.79962842638,55
+"NG","Infrastructure","Nigeria",846541.6,5602.40879552442,51
+"PK","Infrastructure","Pakistan",168278365.09,4601.68894303447,64
+"PH","Infrastructure","Philippines",35594677.38,6535.87586381471,44
+"RW","Infrastructure","Rwanda",2651309,1473.63801166274,79
+"SN","Infrastructure","Senegal",38547085.83,2241.99652516017,48
+"RS","Infrastructure","Serbia",909.57,13020.1042341046,37
+"SS","Infrastructure","South Sudan",6808586.7,2029.74531174235,62
+"SD","Infrastructure","Sudan, Pre-2011 Election",12426182.44,3372.97200690061,81
+"TJ","Infrastructure","Tajikistan",822163.8,2512.24756635,80
+"TZ","Infrastructure","Tanzania",252492596.13,1775.05858032604,55
+"TM","Infrastructure","Turkmenistan",319811.3,14004.160056658,95
+"UG","Infrastructure","Uganda",1964244.86,1413.15463013282,58
+"UA","Infrastructure","Ukraine",4780465.15,8789.98200051008,63
+"YE","Infrastructure","Yemen",137450,3959.29188263281,76
+"AF","Macroeconomic Foundation for Growth","Afghanistan",6673051.62,1946.19380603184,66
+"AM","Macroeconomic Foundation for Growth","Armenia",1485856,7776.2860430691,62
+"BF","Macroeconomic Foundation for Growth","Burkina Faso",10599233.81,1514.18622141102,44
+"EG","Macroeconomic Foundation for Growth","Egypt",190437957.47,11089.2111773151,68
+"SV","Macroeconomic Foundation for Growth","El Salvador",2165683.11,7764.14274460714,39
+"GE","Macroeconomic Foundation for Growth","Georgia",9e+05,7176.44362639204,47
+"GH","Macroeconomic Foundation for Growth","Ghana",244941.95,3992.09003884754,28
+"ID","Macroeconomic Foundation for Growth","Indonesia",2598000.06,9561.12635183094,49
+"JM","Macroeconomic Foundation for Growth","Jamaica",689163.05,8891.89154248426,17
+"JO","Macroeconomic Foundation for Growth","Jordan",386165142.23,11784.5316899264,68
+"KZ","Macroeconomic Foundation for Growth","Kazakhstan",248121,23211.312265251,85
+"KG","Macroeconomic Foundation for Growth","Kyrgyz Republic",859149,3212.93244119764,66
+"ML","Macroeconomic Foundation for Growth","Mali",7204,1641.83452128449,37
+"MN","Macroeconomic Foundation for Growth","Mongolia",5570156.29,9434.9627693653,37
+"MZ","Macroeconomic Foundation for Growth","Mozambique",12245844.64,1105.07349763736,45
+"NP","Macroeconomic Foundation for Growth","Nepal",845000,2244.79962842638,55
+"PH","Macroeconomic Foundation for Growth","Philippines",1644547.77,6535.87586381471,44
+"SS","Macroeconomic Foundation for Growth","South Sudan",6994197,2029.74531174235,62
+"TM","Macroeconomic Foundation for Growth","Turkmenistan",519128,14004.160056658,95
+"VN","Macroeconomic Foundation for Growth","Vietnam",1289724,5294.43986933333,84
+"ZW","Macroeconomic Foundation for Growth","Zimbabwe",307532.75,1832.08324432316,73
+"AO","Malaria","Angola",28651783.21,7736.17468163313,69
+"BJ","Malaria","Benin",14356979.99,1790.75363672991,36
+"BF","Malaria","Burkina Faso",2016292.66,1514.18622141102,44
+"BI","Malaria","Burundi",3738264.88,771.71542954274,74
+"CD","Malaria","Congo, Democratic Republic of",20991322.5,809.217533443526,79
+"ET","Malaria","Ethiopia",27283956.28,1380.00026448913,81
+"GH","Malaria","Ghana",25689796.54,3992.09003884754,28
+"GN","Malaria","Guinea",2172095.1,1253.08489968023,64
+"ID","Malaria","Indonesia",101286.16,9561.12635183094,49
+"KE","Malaria","Kenya",28244318.79,2794.98131908266,57
+"LR","Malaria","Liberia",8857651.76,877.995480056484,58
+"MG","Malaria","Madagascar",25835397.36,1413.99075673979,63
+"MW","Malaria","Malawi",24145422.52,780.003107565482,51
+"ML","Malaria","Mali",23243051.84,1641.83452128449,37
+"MZ","Malaria","Mozambique",14558425.07,1105.07349763736,45
+"NG","Malaria","Nigeria",41831669.34,5602.40879552442,51
+"PE","Malaria","Peru",258862,11774.1883417434,44
+"RW","Malaria","Rwanda",9056161.02,1473.63801166274,79
+"SN","Malaria","Senegal",17760183.01,2241.99652516017,48
+"SS","Malaria","South Sudan",1901573.91,2029.74531174235,62
+"SD","Malaria","Sudan, Pre-2011 Election",107656.69,3372.97200690061,81
+"TZ","Malaria","Tanzania",32897382.18,1775.05858032604,55
+"UG","Malaria","Uganda",25977690.82,1413.15463013282,58
+"ZM","Malaria","Zambia",30873346.12,3925.46238739217,61
+"ZW","Malaria","Zimbabwe",8904456.6,1832.08324432316,73
+"BF","Manufacturing","Burkina Faso",33238.24,1514.18622141102,44
+"DJ","Manufacturing","Djibouti",9272.72,2998.74058570901,75
+"ET","Manufacturing","Ethiopia",3966.03,1380.00026448913,81
+"GN","Manufacturing","Guinea",25239.35,1253.08489968023,64
+"KE","Manufacturing","Kenya",20160,2794.98131908266,57
+"MW","Manufacturing","Malawi",31528.28,780.003107565482,51
+"ZA","Manufacturing","South Africa",57810.8,12506.7494760135,33
+"ZW","Manufacturing","Zimbabwe",15490,1832.08324432316,73
+"AF","Maternal and Child Health","Afghanistan",66146648.14,1946.19380603184,66
+"AL","Maternal and Child Health","Albania",1391171.6,10374.015637354,49
+"AO","Maternal and Child Health","Angola",256000,7736.17468163313,69
+"AM","Maternal and Child Health","Armenia",1704993.42,7776.2860430691,62
+"AZ","Maternal and Child Health","Azerbaijan",775433.4,17143.4792308476,84
+"BD","Maternal and Child Health","Bangladesh",19001773.5,2948.01488976887,54
+"BJ","Maternal and Child Health","Benin",1240798.64,1790.75363672991,36
+"BO","Maternal and Child Health","Bolivia",6499784.52,6131.06168856137,48
+"BI","Maternal and Child Health","Burundi",746938.9,771.71542954274,74
+"KH","Maternal and Child Health","Cambodia",8031619.07,3041.07709021153,66
+"CD","Maternal and Child Health","Congo, Democratic Republic of",16906791.06,809.217533443526,79
+"CG","Maternal and Child Health","Congo, Republic of",-8814,5868.48055101527,57
+"DJ","Maternal and Child Health","Djibouti",4900.28,2998.74058570901,75
+"DO","Maternal and Child Health","Dominican Republic",2330863.16,12186.388560558,41
+"EG","Maternal and Child Health","Egypt",136753,11089.2111773151,68
+"SV","Maternal and Child Health","El Salvador",1411362.71,7764.14274460714,39
+"ET","Maternal and Child Health","Ethiopia",16249570.25,1380.00026448913,81
+"GE","Maternal and Child Health","Georgia",5243124.3,7176.44362639204,47
+"GH","Maternal and Child Health","Ghana",4458166.2,3992.09003884754,28
+"GT","Maternal and Child Health","Guatemala",3795125.74,7296.59257319642,60
+"GN","Maternal and Child Health","Guinea",1710097.94,1253.08489968023,64
+"HT","Maternal and Child Health","Haiti",17271191.98,1703.02934940234,50
+"HN","Maternal and Child Health","Honduras",2780256.71,4592.59339927457,64
+"IN","Maternal and Child Health","India",16463732.93,5411.61554629181,39
+"ID","Maternal and Child Health","Indonesia",14934341.07,9561.12635183094,49
+"IQ","Maternal and Child Health","Iraq",4942312,14951.0776794266,69
+"JO","Maternal and Child Health","Jordan",13187695.69,11784.5316899264,68
+"KZ","Maternal and Child Health","Kazakhstan",186883.26,23211.312265251,85
+"KE","Maternal and Child Health","Kenya",5421163.99,2794.98131908266,57
+"KG","Maternal and Child Health","Kyrgyz Republic",679243.8,3212.93244119764,66
+"LR","Maternal and Child Health","Liberia",6341321.52,877.995480056484,58
+"MG","Maternal and Child Health","Madagascar",4388179.95,1413.99075673979,63
+"MW","Maternal and Child Health","Malawi",12345734.29,780.003107565482,51
+"ML","Maternal and Child Health","Mali",9002580.77,1641.83452128449,37
+"MZ","Maternal and Child Health","Mozambique",9759114.66,1105.07349763736,45
+"NP","Maternal and Child Health","Nepal",8370772.43,2244.79962842638,55
+"NI","Maternal and Child Health","Nicaragua",2136734.93,4642.69625070461,52
+"NG","Maternal and Child Health","Nigeria",25203998.63,5602.40879552442,51
+"PK","Maternal and Child Health","Pakistan",35021748.99,4601.68894303447,64
+"PY","Maternal and Child Health","Paraguay",620746.93,8092.67275665026,59
+"PE","Maternal and Child Health","Peru",2955149.86,11774.1883417434,44
+"PH","Maternal and Child Health","Philippines",1483593.21,6535.87586381471,44
+"RW","Maternal and Child Health","Rwanda",8695396.5,1473.63801166274,79
+"SN","Maternal and Child Health","Senegal",4662261.61,2241.99652516017,48
+"SS","Maternal and Child Health","South Sudan",16788541.58,2029.74531174235,62
+"SD","Maternal and Child Health","Sudan, Pre-2011 Election",124093.82,3372.97200690061,81
+"TJ","Maternal and Child Health","Tajikistan",1279554.99,2512.24756635,80
+"TZ","Maternal and Child Health","Tanzania",7418592.79,1775.05858032604,55
+"TM","Maternal and Child Health","Turkmenistan",216820.5,14004.160056658,95
+"UG","Maternal and Child Health","Uganda",6678319.13,1413.15463013282,58
+"UA","Maternal and Child Health","Ukraine",37115.8,8789.98200051008,63
+"UZ","Maternal and Child Health","Uzbekistan",-204362.56,5168.28603457276,95
+"YE","Maternal and Child Health","Yemen",5163289.65,3959.29188263281,76
+"ZM","Maternal and Child Health","Zambia",13419216.51,3925.46238739217,61
+"ZW","Maternal and Child Health","Zimbabwe",1487104.16,1832.08324432316,73
+"PK","Migration Management","Pakistan",904842.8,4601.68894303447,64
+"AF","Monitoring and Evaluation","Afghanistan",12134671.27,1946.19380603184,66
+"AL","Monitoring and Evaluation","Albania",79130.02,10374.015637354,49
+"AO","Monitoring and Evaluation","Angola",253.25,7736.17468163313,69
+"AM","Monitoring and Evaluation","Armenia",332561.83,7776.2860430691,62
+"AZ","Monitoring and Evaluation","Azerbaijan",224609.71,17143.4792308476,84
+"BD","Monitoring and Evaluation","Bangladesh",1642154.9,2948.01488976887,54
+"BJ","Monitoring and Evaluation","Benin",1535661.5,1790.75363672991,36
+"BO","Monitoring and Evaluation","Bolivia",364632.86,6131.06168856137,48
+"BA","Monitoring and Evaluation","Bosnia and Herzegovina",149745.34,9535.5397905006,50
+"BW","Monitoring and Evaluation","Botswana",374451.83,15751.9022060328,41
+"BR","Monitoring and Evaluation","Brazil",399956.8,15037.4574693446,45
+"BF","Monitoring and Evaluation","Burkina Faso",227076.85,1514.18622141102,44
+"BI","Monitoring and Evaluation","Burundi",339049.95,771.71542954274,74
+"CV","Monitoring and Evaluation","Cabo Verde",227740.84,6416.317160988,27
+"KH","Monitoring and Evaluation","Cambodia",286855.26,3041.07709021153,66
+"CO","Monitoring and Evaluation","Colombia",463716.05,12423.9230431716,54
+"CD","Monitoring and Evaluation","Congo, Democratic Republic of",1076340.1,809.217533443526,79
+"CI","Monitoring and Evaluation","Cote d`Ivoire",116963.69,3210.45464438594,55
+"DJ","Monitoring and Evaluation","Djibouti",35960.38,2998.74058570901,75
+"DO","Monitoring and Evaluation","Dominican Republic",76360.65,12186.388560558,41
+"EC","Monitoring and Evaluation","Ecuador",169909.52,10889.9891270309,62
+"EG","Monitoring and Evaluation","Egypt",317214.49,11089.2111773151,68
+"SV","Monitoring and Evaluation","El Salvador",386046.78,7764.14274460714,39
+"ET","Monitoring and Evaluation","Ethiopia",1681338.54,1380.00026448913,81
+"GE","Monitoring and Evaluation","Georgia",723660.61,7176.44362639204,47
+"GH","Monitoring and Evaluation","Ghana",3001118.38,3992.09003884754,28
+"GT","Monitoring and Evaluation","Guatemala",1407953.13,7296.59257319642,60
+"GN","Monitoring and Evaluation","Guinea",385632.1,1253.08489968023,64
+"GY","Monitoring and Evaluation","Guyana",52.5,6545.93223037864,34
+"HT","Monitoring and Evaluation","Haiti",3318410.31,1703.02934940234,50
+"HN","Monitoring and Evaluation","Honduras",876699.6,4592.59339927457,64
+"IN","Monitoring and Evaluation","India",430609.71,5411.61554629181,39
+"ID","Monitoring and Evaluation","Indonesia",764845.11,9561.12635183094,49
+"IQ","Monitoring and Evaluation","Iraq",11236132.49,14951.0776794266,69
+"JM","Monitoring and Evaluation","Jamaica",64172.16,8891.89154248426,17
+"JO","Monitoring and Evaluation","Jordan",1195186.64,11784.5316899264,68
+"KZ","Monitoring and Evaluation","Kazakhstan",168619.25,23211.312265251,85
+"KE","Monitoring and Evaluation","Kenya",4709544.76,2794.98131908266,57
+"KG","Monitoring and Evaluation","Kyrgyz Republic",431689.12,3212.93244119764,66
+"LB","Monitoring and Evaluation","Lebanon",1206369.52,17173.8422362362,53
+"LR","Monitoring and Evaluation","Liberia",4370792.02,877.995480056484,58
+"LY","Monitoring and Evaluation","Libya",44296.29,21046.3473378789,62
+"MK","Monitoring and Evaluation","Macedonia",164230.94,11611.97490519,57
+"MG","Monitoring and Evaluation","Madagascar",683957.3,1413.99075673979,63
+"MW","Monitoring and Evaluation","Malawi",2758728.79,780.003107565482,51
+"ML","Monitoring and Evaluation","Mali",813281.86,1641.83452128449,37
+"MR","Monitoring and Evaluation","Mauritania",264466.15,3042.83849410548,48
+"MD","Monitoring and Evaluation","Moldova",36250.25,4670.35017000535,53
+"MN","Monitoring and Evaluation","Mongolia",53778.42,9434.9627693653,37
+"MA","Monitoring and Evaluation","Morocco",168904.61,7198.16371916788,66
+"MZ","Monitoring and Evaluation","Mozambique",3256985.68,1105.07349763736,45
+"NP","Monitoring and Evaluation","Nepal",699271.46,2244.79962842638,55
+"NI","Monitoring and Evaluation","Nicaragua",645614.88,4642.69625070461,52
+"NE","Monitoring and Evaluation","Niger",306616.69,916.199691229844,52
+"NG","Monitoring and Evaluation","Nigeria",2422766.12,5602.40879552442,51
+"PK","Monitoring and Evaluation","Pakistan",18800060.45,4601.68894303447,64
+"PA","Monitoring and Evaluation","Panama",20096.25,19416.2320170688,50
+"PG","Monitoring and Evaluation","Papua New Guinea",8812.6,2539.08170427106,29
+"PE","Monitoring and Evaluation","Peru",617055.95,11774.1883417434,44
+"PH","Monitoring and Evaluation","Philippines",1976975.02,6535.87586381471,44
+"RW","Monitoring and Evaluation","Rwanda",1934053.78,1473.63801166274,79
+"SN","Monitoring and Evaluation","Senegal",1171733.35,2241.99652516017,48
+"RS","Monitoring and Evaluation","Serbia",540228.5,13020.1042341046,37
+"SL","Monitoring and Evaluation","Sierra Leone",167702.81,1544.18323961817,49
+"ZA","Monitoring and Evaluation","South Africa",137938.52,12506.7494760135,33
+"LK","Monitoring and Evaluation","Sri Lanka",135604.92,9738.11917417447,76
+"SD","Monitoring and Evaluation","Sudan",485095.08,3372.97200690061,81
+"SD","Monitoring and Evaluation","Sudan, Pre-2011 Election",1266361.28,3372.97200690061,81
+"SZ","Monitoring and Evaluation","Swaziland",7120.58,6685.33811734131,78
+"TJ","Monitoring and Evaluation","Tajikistan",316923.98,2512.24756635,80
+"TZ","Monitoring and Evaluation","Tanzania",3859618.97,1775.05858032604,55
+"TH","Monitoring and Evaluation","Thailand",137261.41,14393.5307035565,64
+"TN","Monitoring and Evaluation","Tunisia",127047.21,11124.4960087614,53
+"TM","Monitoring and Evaluation","Turkmenistan",63488.06,14004.160056658,95
+"UG","Monitoring and Evaluation","Uganda",799421.85,1413.15463013282,58
+"UA","Monitoring and Evaluation","Ukraine",352436.6,8789.98200051008,63
+"UZ","Monitoring and Evaluation","Uzbekistan",181361.95,5168.28603457276,95
+"VN","Monitoring and Evaluation","Vietnam",316320.86,5294.43986933333,84
+"YE","Monitoring and Evaluation","Yemen",2426976.78,3959.29188263281,76
+"ZM","Monitoring and Evaluation","Zambia",2485024.4,3925.46238739217,61
+"ZW","Monitoring and Evaluation","Zimbabwe",583473.82,1832.08324432316,73
+"AL","Multi-Sector - Unspecified","Albania",189817.12,10374.015637354,49
+"AM","Multi-Sector - Unspecified","Armenia",129608.04,7776.2860430691,62
+"AZ","Multi-Sector - Unspecified","Azerbaijan",120054.72,17143.4792308476,84
+"BJ","Multi-Sector - Unspecified","Benin",744392.76,1790.75363672991,36
+"BF","Multi-Sector - Unspecified","Burkina Faso",4641337.22,1514.18622141102,44
+"KH","Multi-Sector - Unspecified","Cambodia",24170.28,3041.07709021153,66
+"CM","Multi-Sector - Unspecified","Cameroon",51458.61,2830.12953902169,66
+"CV","Multi-Sector - Unspecified","Cape Verde",1363626.65,6416.317160988,27
+"CO","Multi-Sector - Unspecified","Colombia",29496.6,12423.9230431716,54
+"CR","Multi-Sector - Unspecified","Costa Rica",22742.04,13875.8563536715,18
+"DO","Multi-Sector - Unspecified","Dominican Republic",76919.92,12186.388560558,41
+"EC","Multi-Sector - Unspecified","Ecuador",28103.76,10889.9891270309,62
+"SV","Multi-Sector - Unspecified","El Salvador",1802673.43,7764.14274460714,39
+"ET","Multi-Sector - Unspecified","Ethiopia",14619.56,1380.00026448913,81
+"FJ","Multi-Sector - Unspecified","Fiji",7240.75,7750.43065903864,54
+"GM","Multi-Sector - Unspecified","Gambia, The",30311.61,1661.42355399369,83
+"GE","Multi-Sector - Unspecified","Georgia",1546566.96,7176.44362639204,47
+"GH","Multi-Sector - Unspecified","Ghana",2107300,3992.09003884754,28
+"GT","Multi-Sector - Unspecified","Guatemala",22308.59,7296.59257319642,60
+"GN","Multi-Sector - Unspecified","Guinea",43038.52,1253.08489968023,64
+"HN","Multi-Sector - Unspecified","Honduras",250750.79,4592.59339927457,64
+"ID","Multi-Sector - Unspecified","Indonesia",1205131.75,9561.12635183094,49
+"IQ","Multi-Sector - Unspecified","Iraq",207336.02,14951.0776794266,69
+"JM","Multi-Sector - Unspecified","Jamaica",51833.37,8891.89154248426,17
+"JO","Multi-Sector - Unspecified","Jordan",1464197.37,11784.5316899264,68
+"KG","Multi-Sector - Unspecified","Kyrgyz Republic",69339.07,3212.93244119764,66
+"LS","Multi-Sector - Unspecified","Lesotho",12874.27,2576.25549405545,47
+"LR","Multi-Sector - Unspecified","Liberia",38853.42,877.995480056484,58
+"MK","Multi-Sector - Unspecified","Macedonia",45006.96,11611.97490519,57
+"MG","Multi-Sector - Unspecified","Madagascar",99760.27,1413.99075673979,63
+"MW","Multi-Sector - Unspecified","Malawi",1245744.16,780.003107565482,51
+"ML","Multi-Sector - Unspecified","Mali",-280845.44,1641.83452128449,37
+"MX","Multi-Sector - Unspecified","Mexico",121558.32,16463.392673388,61
+"MD","Multi-Sector - Unspecified","Moldova",1458864.95,4670.35017000535,53
+"MN","Multi-Sector - Unspecified","Mongolia",847544.77,9434.9627693653,37
+"MA","Multi-Sector - Unspecified","Morocco",1936182.42,7198.16371916788,66
+"MZ","Multi-Sector - Unspecified","Mozambique",7526071.45,1105.07349763736,45
+"NA","Multi-Sector - Unspecified","Namibia",9792978.73,9583.18475656442,31
+"NP","Multi-Sector - Unspecified","Nepal",1742537.79,2244.79962842638,55
+"NI","Multi-Sector - Unspecified","Nicaragua",81523,4642.69625070461,52
+"NE","Multi-Sector - Unspecified","Niger",1074694.01,916.199691229844,52
+"PA","Multi-Sector - Unspecified","Panama",18789.16,19416.2320170688,50
+"PY","Multi-Sector - Unspecified","Paraguay",36013.44,8092.67275665026,59
+"PE","Multi-Sector - Unspecified","Peru",58419.29,11774.1883417434,44
+"PH","Multi-Sector - Unspecified","Philippines",3914451.38,6535.87586381471,44
+"RW","Multi-Sector - Unspecified","Rwanda",605957.75,1473.63801166274,79
+"ST","Multi-Sector - Unspecified","Sao Tome and Principe",-465359.21,2971.06707976578,28
+"SN","Multi-Sector - Unspecified","Senegal",3362390.75,2241.99652516017,48
+"SL","Multi-Sector - Unspecified","Sierra Leone",20169.05,1544.18323961817,49
+"TZ","Multi-Sector - Unspecified","Tanzania",2067939.38,1775.05858032604,55
+"TG","Multi-Sector - Unspecified","Togo",56686.29,1390.51971095318,65
+"TN","Multi-Sector - Unspecified","Tunisia",619667.73,11124.4960087614,53
+"TM","Multi-Sector - Unspecified","Turkmenistan",3709.44,14004.160056658,95
+"UG","Multi-Sector - Unspecified","Uganda",187937.67,1413.15463013282,58
+"UA","Multi-Sector - Unspecified","Ukraine",234295.85,8789.98200051008,63
+"VU","Multi-Sector - Unspecified","Vanuatu",80649.32,2990.91682998287,25
+"ZM","Multi-Sector - Unspecified","Zambia",-110342.2,3925.46238739217,61
+"AF","Natural Resources and Biodiversity","Afghanistan",3182243.78,1946.19380603184,66
+"BD","Natural Resources and Biodiversity","Bangladesh",5321505.9,2948.01488976887,54
+"BO","Natural Resources and Biodiversity","Bolivia",3452496.38,6131.06168856137,48
+"BR","Natural Resources and Biodiversity","Brazil",4515330.85,15037.4574693446,45
+"KH","Natural Resources and Biodiversity","Cambodia",3662562.1,3041.07709021153,66
+"CN","Natural Resources and Biodiversity","China",328577.35,11906.5073908244,84
+"CO","Natural Resources and Biodiversity","Colombia",2881057.27,12423.9230431716,54
+"CR","Natural Resources and Biodiversity","Costa Rica",17199,13875.8563536715,18
+"DO","Natural Resources and Biodiversity","Dominican Republic",455190.22,12186.388560558,41
+"EC","Natural Resources and Biodiversity","Ecuador",5024417.52,10889.9891270309,62
+"EG","Natural Resources and Biodiversity","Egypt",287.38,11089.2111773151,68
+"SV","Natural Resources and Biodiversity","El Salvador",710565.25,7764.14274460714,39
+"ET","Natural Resources and Biodiversity","Ethiopia",2128595.1,1380.00026448913,81
+"GE","Natural Resources and Biodiversity","Georgia",780246.3,7176.44362639204,47
+"GH","Natural Resources and Biodiversity","Ghana",959228,3992.09003884754,28
+"GT","Natural Resources and Biodiversity","Guatemala",1577372.6,7296.59257319642,60
+"GN","Natural Resources and Biodiversity","Guinea",72211,1253.08489968023,64
+"HT","Natural Resources and Biodiversity","Haiti",7773732.5,1703.02934940234,50
+"HN","Natural Resources and Biodiversity","Honduras",4059558,4592.59339927457,64
+"ID","Natural Resources and Biodiversity","Indonesia",19749051.09,9561.12635183094,49
+"JM","Natural Resources and Biodiversity","Jamaica",184983.91,8891.89154248426,17
+"JO","Natural Resources and Biodiversity","Jordan",1307658.84,11784.5316899264,68
+"KE","Natural Resources and Biodiversity","Kenya",2281513.38,2794.98131908266,57
+"LB","Natural Resources and Biodiversity","Lebanon",23255.29,17173.8422362362,53
+"LR","Natural Resources and Biodiversity","Liberia",3971955.53,877.995480056484,58
+"MW","Natural Resources and Biodiversity","Malawi",1879149.29,780.003107565482,51
+"ML","Natural Resources and Biodiversity","Mali",47631.7,1641.83452128449,37
+"MX","Natural Resources and Biodiversity","Mexico",529827,16463.392673388,61
+"MA","Natural Resources and Biodiversity","Morocco",64391426.44,7198.16371916788,66
+"MZ","Natural Resources and Biodiversity","Mozambique",2490972.33,1105.07349763736,45
+"NA","Natural Resources and Biodiversity","Namibia",874601,9583.18475656442,31
+"NP","Natural Resources and Biodiversity","Nepal",4651072.3,2244.79962842638,55
+"NI","Natural Resources and Biodiversity","Nicaragua",2358225.3,4642.69625070461,52
+"PA","Natural Resources and Biodiversity","Panama",140766.4,19416.2320170688,50
+"PY","Natural Resources and Biodiversity","Paraguay",669260.17,8092.67275665026,59
+"PE","Natural Resources and Biodiversity","Peru",6860367.45,11774.1883417434,44
+"PH","Natural Resources and Biodiversity","Philippines",9048391.9,6535.87586381471,44
+"RW","Natural Resources and Biodiversity","Rwanda",1278757.6,1473.63801166274,79
+"SN","Natural Resources and Biodiversity","Senegal",1006723.1,2241.99652516017,48
+"SL","Natural Resources and Biodiversity","Sierra Leone",5e+05,1544.18323961817,49
+"SS","Natural Resources and Biodiversity","South Sudan",3538162,2029.74531174235,62
+"SD","Natural Resources and Biodiversity","Sudan, Pre-2011 Election",187391,3372.97200690061,81
+"TZ","Natural Resources and Biodiversity","Tanzania",6026605.26,1775.05858032604,55
+"UG","Natural Resources and Biodiversity","Uganda",3049908.66,1413.15463013282,58
+"AF","Nutrition","Afghanistan",8433420.32,1946.19380603184,66
+"AO","Nutrition","Angola",9475538.89,7736.17468163313,69
+"BD","Nutrition","Bangladesh",12181147.39,2948.01488976887,54
+"BO","Nutrition","Bolivia",720046.83,6131.06168856137,48
+"BR","Nutrition","Brazil",793945,15037.4574693446,45
+"BF","Nutrition","Burkina Faso",4891989.4,1514.18622141102,44
+"BI","Nutrition","Burundi",154320.68,771.71542954274,74
+"KH","Nutrition","Cambodia",2333137.18,3041.07709021153,66
+"CM","Nutrition","Cameroon",9005100.35,2830.12953902169,66
+"TD","Nutrition","Chad",316.13,2088.5918355193,75
+"CD","Nutrition","Congo, Democratic Republic of",1207732.5,809.217533443526,79
+"CG","Nutrition","Congo, Republic of",6190909.63,5868.48055101527,57
+"ET","Nutrition","Ethiopia",14499643.88,1380.00026448913,81
+"GH","Nutrition","Ghana",3229273.61,3992.09003884754,28
+"GT","Nutrition","Guatemala",16268513.27,7296.59257319642,60
+"GW","Nutrition","Guinea-Bissau",6994904.4,1407.02677224558,67
+"HT","Nutrition","Haiti",18898500.97,1703.02934940234,50
+"HN","Nutrition","Honduras",4482347.06,4592.59339927457,64
+"IN","Nutrition","India",125.68,5411.61554629181,39
+"ID","Nutrition","Indonesia",1625.15,9561.12635183094,49
+"KE","Nutrition","Kenya",2713896.3,2794.98131908266,57
+"KG","Nutrition","Kyrgyz Republic",2219736.78,3212.93244119764,66
+"LA","Nutrition","Laos",8695190.88,4822.02207368924,84
+"LR","Nutrition","Liberia",5041718,877.995480056484,58
+"MG","Nutrition","Madagascar",4712.98,1413.99075673979,63
+"MW","Nutrition","Malawi",6559681.27,780.003107565482,51
+"ML","Nutrition","Mali",8828811.55,1641.83452128449,37
+"MZ","Nutrition","Mozambique",16737604.81,1105.07349763736,45
+"NP","Nutrition","Nepal",10655927.83,2244.79962842638,55
+"NI","Nutrition","Nicaragua",4257167.56,4642.69625070461,52
+"NE","Nutrition","Niger",1821594.31,916.199691229844,52
+"NG","Nutrition","Nigeria",909682.26,5602.40879552442,51
+"PK","Nutrition","Pakistan",1236285.34,4601.68894303447,64
+"PE","Nutrition","Peru",371838.1,11774.1883417434,44
+"PH","Nutrition","Philippines",222.46,6535.87586381471,44
+"RW","Nutrition","Rwanda",2832553.9,1473.63801166274,79
+"SN","Nutrition","Senegal",7395224.8,2241.99652516017,48
+"SL","Nutrition","Sierra Leone",2737666.76,1544.18323961817,49
+"SS","Nutrition","South Sudan",375000,2029.74531174235,62
+"TZ","Nutrition","Tanzania",9606921.85,1775.05858032604,55
+"UG","Nutrition","Uganda",9731627.7,1413.15463013282,58
+"VN","Nutrition","Vietnam",83847.77,5294.43986933333,84
+"ZM","Nutrition","Zambia",5103324,3925.46238739217,61
+"AF","Other Public Health Threats","Afghanistan",4903525.72,1946.19380603184,66
+"AL","Other Public Health Threats","Albania",419962.6,10374.015637354,49
+"AO","Other Public Health Threats","Angola",379178.8,7736.17468163313,69
+"AM","Other Public Health Threats","Armenia",977497.8,7776.2860430691,62
+"AZ","Other Public Health Threats","Azerbaijan",1225251.7,17143.4792308476,84
+"BJ","Other Public Health Threats","Benin",47523.6,1790.75363672991,36
+"BG","Other Public Health Threats","Bulgaria",553270,15731.6726237737,39
+"BF","Other Public Health Threats","Burkina Faso",54459.5,1514.18622141102,44
+"KH","Other Public Health Threats","Cambodia",418100.9,3041.07709021153,66
+"TD","Other Public Health Threats","Chad",86498.66,2088.5918355193,75
+"CD","Other Public Health Threats","Congo, Democratic Republic of",796876.44,809.217533443526,79
+"CG","Other Public Health Threats","Congo, Republic of",44638.82,5868.48055101527,57
+"EG","Other Public Health Threats","Egypt",2510781.32,11089.2111773151,68
+"GA","Other Public Health Threats","Gabon",220811.86,19264.3359398216,70
+"GE","Other Public Health Threats","Georgia",370247.5,7176.44362639204,47
+"HT","Other Public Health Threats","Haiti",303493.93,1703.02934940234,50
+"IN","Other Public Health Threats","India",865439.94,5411.61554629181,39
+"ID","Other Public Health Threats","Indonesia",2971048,9561.12635183094,49
+"IQ","Other Public Health Threats","Iraq",10551503,14951.0776794266,69
+"IL","Other Public Health Threats","Israel",3314246,32490.6207427851,30
+"JO","Other Public Health Threats","Jordan",963543,11784.5316899264,68
+"KZ","Other Public Health Threats","Kazakhstan",28182.06,23211.312265251,85
+"KE","Other Public Health Threats","Kenya",1263317.16,2794.98131908266,57
+"KG","Other Public Health Threats","Kyrgyz Republic",332532.9,3212.93244119764,66
+"LS","Other Public Health Threats","Lesotho",53472382.39,2576.25549405545,47
+"MX","Other Public Health Threats","Mexico",247335,16463.392673388,61
+"MN","Other Public Health Threats","Mongolia",11485451.81,9434.9627693653,37
+"NP","Other Public Health Threats","Nepal",1006233.07,2244.79962842638,55
+"NG","Other Public Health Threats","Nigeria",460730.44,5602.40879552442,51
+"PK","Other Public Health Threats","Pakistan",3049994,4601.68894303447,64
+"PY","Other Public Health Threats","Paraguay",1364.13,8092.67275665026,59
+"PE","Other Public Health Threats","Peru",23709.09,11774.1883417434,44
+"CH","Other Public Health Threats","Switzerland",1312499.98,56564.9359472129,12
+"TJ","Other Public Health Threats","Tajikistan",570011,2512.24756635,80
+"TR","Other Public Health Threats","Turkey",376626,19020.0650632949,62
+"TM","Other Public Health Threats","Turkmenistan",41605.3,14004.160056658,95
+"UG","Other Public Health Threats","Uganda",376145,1413.15463013282,58
+"UA","Other Public Health Threats","Ukraine",149637.75,8789.98200051008,63
+"UZ","Other Public Health Threats","Uzbekistan",1199.96,5168.28603457276,95
+"BD","Pandemic Influenza and Other Emerging Threats","Bangladesh",524845.24,2948.01488976887,54
+"BF","Pandemic Influenza and Other Emerging Threats","Burkina Faso",141426.52,1514.18622141102,44
+"KH","Pandemic Influenza and Other Emerging Threats","Cambodia",516129.21,3041.07709021153,66
+"CN","Pandemic Influenza and Other Emerging Threats","China",2762058,11906.5073908244,84
+"CD","Pandemic Influenza and Other Emerging Threats","Congo, Democratic Republic of",184440.24,809.217533443526,79
+"DK","Pandemic Influenza and Other Emerging Threats","Denmark",298117.12,43444.6297130455,12
+"EG","Pandemic Influenza and Other Emerging Threats","Egypt",2213319.37,11089.2111773151,68
+"ET","Pandemic Influenza and Other Emerging Threats","Ethiopia",101825.4,1380.00026448913,81
+"FR","Pandemic Influenza and Other Emerging Threats","France",38114.28,37871.8556151032,22
+"GE","Pandemic Influenza and Other Emerging Threats","Georgia",60566,7176.44362639204,47
+"GH","Pandemic Influenza and Other Emerging Threats","Ghana",11943.7,3992.09003884754,28
+"GT","Pandemic Influenza and Other Emerging Threats","Guatemala",2251597.18,7296.59257319642,60
+"IN","Pandemic Influenza and Other Emerging Threats","India",898142.32,5411.61554629181,39
+"ID","Pandemic Influenza and Other Emerging Threats","Indonesia",4061825.88,9561.12635183094,49
+"IT","Pandemic Influenza and Other Emerging Threats","Italy",124493.08,35597.3160550274,31
+"KZ","Pandemic Influenza and Other Emerging Threats","Kazakhstan",666779.28,23211.312265251,85
+"KE","Pandemic Influenza and Other Emerging Threats","Kenya",4129953.04,2794.98131908266,57
+"LA","Pandemic Influenza and Other Emerging Threats","Laos",420520.12,4822.02207368924,84
+"MX","Pandemic Influenza and Other Emerging Threats","Mexico",89862.08,16463.392673388,61
+"NP","Pandemic Influenza and Other Emerging Threats","Nepal",26784.41,2244.79962842638,55
+"NG","Pandemic Influenza and Other Emerging Threats","Nigeria",231183.22,5602.40879552442,51
+"PA","Pandemic Influenza and Other Emerging Threats","Panama",16481.96,19416.2320170688,50
+"PH","Pandemic Influenza and Other Emerging Threats","Philippines",1149250.8,6535.87586381471,44
+"RW","Pandemic Influenza and Other Emerging Threats","Rwanda",188892.88,1473.63801166274,79
+"ZA","Pandemic Influenza and Other Emerging Threats","South Africa",1133996.32,12506.7494760135,33
+"CH","Pandemic Influenza and Other Emerging Threats","Switzerland",368239.76,56564.9359472129,12
+"TZ","Pandemic Influenza and Other Emerging Threats","Tanzania",1656,1775.05858032604,55
+"TH","Pandemic Influenza and Other Emerging Threats","Thailand",2937430.48,14393.5307035565,64
+"UG","Pandemic Influenza and Other Emerging Threats","Uganda",507108.9,1413.15463013282,58
+"VN","Pandemic Influenza and Other Emerging Threats","Vietnam",3803364.6,5294.43986933333,84
+"ZM","Pandemic Influenza and Other Emerging Threats","Zambia",285920.8,3925.46238739217,61
+"ZW","Pandemic Influenza and Other Emerging Threats","Zimbabwe",101409.06,1832.08324432316,73
+"AF","Political Competition and Consensus-Building","Afghanistan",16895945.85,1946.19380603184,66
+"AL","Political Competition and Consensus-Building","Albania",652661.38,10374.015637354,49
+"AO","Political Competition and Consensus-Building","Angola",915319.46,7736.17468163313,69
+"AM","Political Competition and Consensus-Building","Armenia",1422826.22,7776.2860430691,62
+"AZ","Political Competition and Consensus-Building","Azerbaijan",1465662.59,17143.4792308476,84
+"BD","Political Competition and Consensus-Building","Bangladesh",4366847.06,2948.01488976887,54
+"BJ","Political Competition and Consensus-Building","Benin",236187,1790.75363672991,36
+"BO","Political Competition and Consensus-Building","Bolivia",2.48,6131.06168856137,48
+"BA","Political Competition and Consensus-Building","Bosnia and Herzegovina",1649970.55,9535.5397905006,50
+"BF","Political Competition and Consensus-Building","Burkina Faso",137.78,1514.18622141102,44
+"BI","Political Competition and Consensus-Building","Burundi",252200,771.71542954274,74
+"KH","Political Competition and Consensus-Building","Cambodia",5222726.63,3041.07709021153,66
+"CM","Political Competition and Consensus-Building","Cameroon",199298.21,2830.12953902169,66
+"CF","Political Competition and Consensus-Building","Central African Republic",656.02,603.742959794015,77
+"TD","Political Competition and Consensus-Building","Chad",563376.6,2088.5918355193,75
+"CO","Political Competition and Consensus-Building","Colombia",430001.68,12423.9230431716,54
+"CD","Political Competition and Consensus-Building","Congo, Democratic Republic of",5579894,809.217533443526,79
+"CI","Political Competition and Consensus-Building","Cote d`Ivoire",99281.7,3210.45464438594,55
+"DJ","Political Competition and Consensus-Building","Djibouti",63907.02,2998.74058570901,75
+"DO","Political Competition and Consensus-Building","Dominican Republic",93.67,12186.388560558,41
+"EC","Political Competition and Consensus-Building","Ecuador",827564.1,10889.9891270309,62
+"EG","Political Competition and Consensus-Building","Egypt",3859523,11089.2111773151,68
+"SV","Political Competition and Consensus-Building","El Salvador",476324.18,7764.14274460714,39
+"ET","Political Competition and Consensus-Building","Ethiopia",-153792.53,1380.00026448913,81
+"GE","Political Competition and Consensus-Building","Georgia",3981287.7,7176.44362639204,47
+"GH","Political Competition and Consensus-Building","Ghana",1052364.59,3992.09003884754,28
+"GT","Political Competition and Consensus-Building","Guatemala",488351.71,7296.59257319642,60
+"GN","Political Competition and Consensus-Building","Guinea",1672424.02,1253.08489968023,64
+"GY","Political Competition and Consensus-Building","Guyana",366955.9,6545.93223037864,34
+"HT","Political Competition and Consensus-Building","Haiti",860679.57,1703.02934940234,50
+"HN","Political Competition and Consensus-Building","Honduras",1136640.92,4592.59339927457,64
+"IN","Political Competition and Consensus-Building","India",62011.3,5411.61554629181,39
+"ID","Political Competition and Consensus-Building","Indonesia",801662.21,9561.12635183094,49
+"IQ","Political Competition and Consensus-Building","Iraq",10659837.58,14951.0776794266,69
+"JO","Political Competition and Consensus-Building","Jordan",4550063.2,11784.5316899264,68
+"KZ","Political Competition and Consensus-Building","Kazakhstan",2457.8,23211.312265251,85
+"KE","Political Competition and Consensus-Building","Kenya",13525378.36,2794.98131908266,57
+"KG","Political Competition and Consensus-Building","Kyrgyz Republic",1636864.51,3212.93244119764,66
+"LB","Political Competition and Consensus-Building","Lebanon",1031814.46,17173.8422362362,53
+"LS","Political Competition and Consensus-Building","Lesotho",128288.8,2576.25549405545,47
+"LR","Political Competition and Consensus-Building","Liberia",2222858.36,877.995480056484,58
+"MW","Political Competition and Consensus-Building","Malawi",-24657.52,780.003107565482,51
+"ML","Political Competition and Consensus-Building","Mali",1835965.6,1641.83452128449,37
+"MR","Political Competition and Consensus-Building","Mauritania",471938.84,3042.83849410548,48
+"MX","Political Competition and Consensus-Building","Mexico",38434.3,16463.392673388,61
+"MD","Political Competition and Consensus-Building","Moldova",1742981.93,4670.35017000535,53
+"MN","Political Competition and Consensus-Building","Mongolia",81232.57,9434.9627693653,37
+"MA","Political Competition and Consensus-Building","Morocco",1229700.88,7198.16371916788,66
+"MZ","Political Competition and Consensus-Building","Mozambique",11021.69,1105.07349763736,45
+"NA","Political Competition and Consensus-Building","Namibia",24411.4,9583.18475656442,31
+"NP","Political Competition and Consensus-Building","Nepal",4325484.86,2244.79962842638,55
+"NI","Political Competition and Consensus-Building","Nicaragua",2799360.21,4642.69625070461,52
+"NE","Political Competition and Consensus-Building","Niger",335357.66,916.199691229844,52
+"NG","Political Competition and Consensus-Building","Nigeria",8036414.29,5602.40879552442,51
+"PK","Political Competition and Consensus-Building","Pakistan",7300505.81,4601.68894303447,64
+"PY","Political Competition and Consensus-Building","Paraguay",320000,8092.67275665026,59
+"PE","Political Competition and Consensus-Building","Peru",1555281.67,11774.1883417434,44
+"PH","Political Competition and Consensus-Building","Philippines",1415568.65,6535.87586381471,44
+"RW","Political Competition and Consensus-Building","Rwanda",66781,1473.63801166274,79
+"SN","Political Competition and Consensus-Building","Senegal",191302.85,2241.99652516017,48
+"RS","Political Competition and Consensus-Building","Serbia",2022552.99,13020.1042341046,37
+"SL","Political Competition and Consensus-Building","Sierra Leone",1675834.44,1544.18323961817,49
+"SS","Political Competition and Consensus-Building","South Sudan",1651896,2029.74531174235,62
+"LK","Political Competition and Consensus-Building","Sri Lanka",472823.4,9738.11917417447,76
+"SD","Political Competition and Consensus-Building","Sudan",156500,3372.97200690061,81
+"SD","Political Competition and Consensus-Building","Sudan, Pre-2011 Election",7304362.96,3372.97200690061,81
+"SZ","Political Competition and Consensus-Building","Swaziland",68551.8,6685.33811734131,78
+"TJ","Political Competition and Consensus-Building","Tajikistan",95.13,2512.24756635,80
+"TZ","Political Competition and Consensus-Building","Tanzania",-161.01,1775.05858032604,55
+"TG","Political Competition and Consensus-Building","Togo",194828.25,1390.51971095318,65
+"TN","Political Competition and Consensus-Building","Tunisia",240000,11124.4960087614,53
+"TM","Political Competition and Consensus-Building","Turkmenistan",6851,14004.160056658,95
+"UG","Political Competition and Consensus-Building","Uganda",289076.61,1413.15463013282,58
+"UA","Political Competition and Consensus-Building","Ukraine",4150970.64,8789.98200051008,63
+"VE","Political Competition and Consensus-Building","Venezuela",1004199.73,18198.3700172414,78
+"YE","Political Competition and Consensus-Building","Yemen",6765825.4,3959.29188263281,76
+"ZM","Political Competition and Consensus-Building","Zambia",385514.15,3925.46238739217,61
+"ZW","Political Competition and Consensus-Building","Zimbabwe",4657583,1832.08324432316,73
+"AF","Private Sector Competitiveness","Afghanistan",42981500.4,1946.19380603184,66
+"AL","Private Sector Competitiveness","Albania",3082253.8,10374.015637354,49
+"AO","Private Sector Competitiveness","Angola",62944.8,7736.17468163313,69
+"AM","Private Sector Competitiveness","Armenia",5389989.67,7776.2860430691,62
+"AZ","Private Sector Competitiveness","Azerbaijan",3588638.26,17143.4792308476,84
+"BD","Private Sector Competitiveness","Bangladesh",4955855.31,2948.01488976887,54
+"BJ","Private Sector Competitiveness","Benin",-0.01,1790.75363672991,36
+"BO","Private Sector Competitiveness","Bolivia",2771961.26,6131.06168856137,48
+"BA","Private Sector Competitiveness","Bosnia and Herzegovina",6398808.5,9535.5397905006,50
+"BR","Private Sector Competitiveness","Brazil",616761.95,15037.4574693446,45
+"BI","Private Sector Competitiveness","Burundi",76777.8,771.71542954274,74
+"KH","Private Sector Competitiveness","Cambodia",6539.87,3041.07709021153,66
+"CL","Private Sector Competitiveness","Chile",35492,21911.3009745228,31
+"CN","Private Sector Competitiveness","China",991219.6,11906.5073908244,84
+"CO","Private Sector Competitiveness","Colombia",143714,12423.9230431716,54
+"CD","Private Sector Competitiveness","Congo, Democratic Republic of",849755,809.217533443526,79
+"CR","Private Sector Competitiveness","Costa Rica",181751,13875.8563536715,18
+"HR","Private Sector Competitiveness","Croatia",114823,21365.5824631022,40
+"DO","Private Sector Competitiveness","Dominican Republic",1020314.26,12186.388560558,41
+"EC","Private Sector Competitiveness","Ecuador",1476309.23,10889.9891270309,62
+"EG","Private Sector Competitiveness","Egypt",23184977.81,11089.2111773151,68
+"SV","Private Sector Competitiveness","El Salvador",4477289.22,7764.14274460714,39
+"ET","Private Sector Competitiveness","Ethiopia",3627635.76,1380.00026448913,81
+"GE","Private Sector Competitiveness","Georgia",3459856.7,7176.44362639204,47
+"GT","Private Sector Competitiveness","Guatemala",1698829.64,7296.59257319642,60
+"GY","Private Sector Competitiveness","Guyana",431247.82,6545.93223037864,34
+"HT","Private Sector Competitiveness","Haiti",1067124.86,1703.02934940234,50
+"HN","Private Sector Competitiveness","Honduras",3126672.24,4592.59339927457,64
+"ID","Private Sector Competitiveness","Indonesia",3190494.3,9561.12635183094,49
+"IQ","Private Sector Competitiveness","Iraq",17515930,14951.0776794266,69
+"JM","Private Sector Competitiveness","Jamaica",1017740.35,8891.89154248426,17
+"JO","Private Sector Competitiveness","Jordan",15402740.59,11784.5316899264,68
+"KZ","Private Sector Competitiveness","Kazakhstan",750419.7,23211.312265251,85
+"KE","Private Sector Competitiveness","Kenya",2891236.87,2794.98131908266,57
+"KG","Private Sector Competitiveness","Kyrgyz Republic",4293027.5,3212.93244119764,66
+"LS","Private Sector Competitiveness","Lesotho",996123.48,2576.25549405545,47
+"LR","Private Sector Competitiveness","Liberia",6993922.8,877.995480056484,58
+"MK","Private Sector Competitiveness","Macedonia",3396013.96,11611.97490519,57
+"MW","Private Sector Competitiveness","Malawi",722579.98,780.003107565482,51
+"MX","Private Sector Competitiveness","Mexico",7194442,16463.392673388,61
+"MD","Private Sector Competitiveness","Moldova",7737946.88,4670.35017000535,53
+"MN","Private Sector Competitiveness","Mongolia",3289467.75,9434.9627693653,37
+"ME","Private Sector Competitiveness","Montenegro",2028921.3,14131.6050000068,39
+"MA","Private Sector Competitiveness","Morocco",8577164.35,7198.16371916788,66
+"MZ","Private Sector Competitiveness","Mozambique",677350.91,1105.07349763736,45
+"NA","Private Sector Competitiveness","Namibia",13580536.9,9583.18475656442,31
+"NP","Private Sector Competitiveness","Nepal",2861780.49,2244.79962842638,55
+"NI","Private Sector Competitiveness","Nicaragua",1772514.4,4642.69625070461,52
+"PK","Private Sector Competitiveness","Pakistan",16919260.57,4601.68894303447,64
+"PA","Private Sector Competitiveness","Panama",749504,19416.2320170688,50
+"PY","Private Sector Competitiveness","Paraguay",413765.78,8092.67275665026,59
+"PE","Private Sector Competitiveness","Peru",1030159.26,11774.1883417434,44
+"PH","Private Sector Competitiveness","Philippines",2643864.61,6535.87586381471,44
+"RW","Private Sector Competitiveness","Rwanda",365145,1473.63801166274,79
+"SN","Private Sector Competitiveness","Senegal",4178.75,2241.99652516017,48
+"RS","Private Sector Competitiveness","Serbia",9875885.4,13020.1042341046,37
+"ZA","Private Sector Competitiveness","South Africa",2287027.44,12506.7494760135,33
+"SS","Private Sector Competitiveness","South Sudan",3936195.4,2029.74531174235,62
+"LK","Private Sector Competitiveness","Sri Lanka",4116776.8,9738.11917417447,76
+"SD","Private Sector Competitiveness","Sudan, Pre-2011 Election",2805825,3372.97200690061,81
+"TJ","Private Sector Competitiveness","Tajikistan",2004210,2512.24756635,80
+"TZ","Private Sector Competitiveness","Tanzania",1177332.4,1775.05858032604,55
+"TN","Private Sector Competitiveness","Tunisia",5806700,11124.4960087614,53
+"TM","Private Sector Competitiveness","Turkmenistan",814146.8,14004.160056658,95
+"UG","Private Sector Competitiveness","Uganda",7334.06,1413.15463013282,58
+"UA","Private Sector Competitiveness","Ukraine",3314469.8,8789.98200051008,63
+"UZ","Private Sector Competitiveness","Uzbekistan",3112465.45,5168.28603457276,95
+"VN","Private Sector Competitiveness","Vietnam",835358.73,5294.43986933333,84
+"YE","Private Sector Competitiveness","Yemen",1413457.79,3959.29188263281,76
+"ZM","Private Sector Competitiveness","Zambia",9807.86,3925.46238739217,61
+"AF","Protection, Assistance and Solutions","Afghanistan",37645147.36,1946.19380603184,66
+"AO","Protection, Assistance and Solutions","Angola",1096997,7736.17468163313,69
+"AM","Protection, Assistance and Solutions","Armenia",527971.5,7776.2860430691,62
+"AZ","Protection, Assistance and Solutions","Azerbaijan",797378,17143.4792308476,84
+"BD","Protection, Assistance and Solutions","Bangladesh",15290437.08,2948.01488976887,54
+"BJ","Protection, Assistance and Solutions","Benin",49410.39,1790.75363672991,36
+"BR","Protection, Assistance and Solutions","Brazil",-3088.75,15037.4574693446,45
+"BF","Protection, Assistance and Solutions","Burkina Faso",8863893.02,1514.18622141102,44
+"BI","Protection, Assistance and Solutions","Burundi",3549449.03,771.71542954274,74
+"KH","Protection, Assistance and Solutions","Cambodia",110652,3041.07709021153,66
+"CM","Protection, Assistance and Solutions","Cameroon",858280,2830.12953902169,66
+"CF","Protection, Assistance and Solutions","Central African Republic",3481607.29,603.742959794015,77
+"TD","Protection, Assistance and Solutions","Chad",23309861.92,2088.5918355193,75
+"CO","Protection, Assistance and Solutions","Colombia",175530.81,12423.9230431716,54
+"KM","Protection, Assistance and Solutions","Comoros",48619.68,1446.17149475964,49
+"CD","Protection, Assistance and Solutions","Congo, Democratic Republic of",41221880.58,809.217533443526,79
+"CG","Protection, Assistance and Solutions","Congo, Republic of",1509644.61,5868.48055101527,57
+"CR","Protection, Assistance and Solutions","Costa Rica",3441.7,13875.8563536715,18
+"CI","Protection, Assistance and Solutions","Cote d`Ivoire",2654299.88,3210.45464438594,55
+"DJ","Protection, Assistance and Solutions","Djibouti",4.74,2998.74058570901,75
+"DO","Protection, Assistance and Solutions","Dominican Republic",393590,12186.388560558,41
+"EC","Protection, Assistance and Solutions","Ecuador",975022,10889.9891270309,62
+"EG","Protection, Assistance and Solutions","Egypt",1,11089.2111773151,68
+"SV","Protection, Assistance and Solutions","El Salvador",1918640.69,7764.14274460714,39
+"ET","Protection, Assistance and Solutions","Ethiopia",79144526.96,1380.00026448913,81
+"FJ","Protection, Assistance and Solutions","Fiji",350000,7750.43065903864,54
+"GM","Protection, Assistance and Solutions","Gambia, The",998805.5,1661.42355399369,83
+"GE","Protection, Assistance and Solutions","Georgia",11862226,7176.44362639204,47
+"GH","Protection, Assistance and Solutions","Ghana",-219,3992.09003884754,28
+"GT","Protection, Assistance and Solutions","Guatemala",4515844.33,7296.59257319642,60
+"GW","Protection, Assistance and Solutions","Guinea-Bissau",1e+05,1407.02677224558,67
+"HT","Protection, Assistance and Solutions","Haiti",57372761.28,1703.02934940234,50
+"HN","Protection, Assistance and Solutions","Honduras",3e+05,4592.59339927457,64
+"IN","Protection, Assistance and Solutions","India",66475.98,5411.61554629181,39
+"ID","Protection, Assistance and Solutions","Indonesia",359678.16,9561.12635183094,49
+"IQ","Protection, Assistance and Solutions","Iraq",-98758.73,14951.0776794266,69
+"JM","Protection, Assistance and Solutions","Jamaica",142358.8,8891.89154248426,17
+"JP","Protection, Assistance and Solutions","Japan",179891.1,36449.0618262047,25
+"JO","Protection, Assistance and Solutions","Jordan",18229437.21,11784.5316899264,68
+"KE","Protection, Assistance and Solutions","Kenya",32982474.8,2794.98131908266,57
+"KG","Protection, Assistance and Solutions","Kyrgyz Republic",62388.42,3212.93244119764,66
+"LB","Protection, Assistance and Solutions","Lebanon",2120.43,17173.8422362362,53
+"LS","Protection, Assistance and Solutions","Lesotho",2004998.5,2576.25549405545,47
+"LR","Protection, Assistance and Solutions","Liberia",7567649.64,877.995480056484,58
+"LY","Protection, Assistance and Solutions","Libya",-15211.8,21046.3473378789,62
+"MG","Protection, Assistance and Solutions","Madagascar",4938228.12,1413.99075673979,63
+"MW","Protection, Assistance and Solutions","Malawi",11392948.26,780.003107565482,51
+"ML","Protection, Assistance and Solutions","Mali",24328264.5,1641.83452128449,37
+"MH","Protection, Assistance and Solutions","Marshall Islands",1264076.87,3900.99731010833,17
+"MR","Protection, Assistance and Solutions","Mauritania",13417909.85,3042.83849410548,48
+"MX","Protection, Assistance and Solutions","Mexico",250000,16463.392673388,61
+"MD","Protection, Assistance and Solutions","Moldova",-617,4670.35017000535,53
+"MZ","Protection, Assistance and Solutions","Mozambique",5484561.8,1105.07349763736,45
+"NA","Protection, Assistance and Solutions","Namibia",214059,9583.18475656442,31
+"NZ","Protection, Assistance and Solutions","New Zealand",2219450,34825.7083942145,18
+"NI","Protection, Assistance and Solutions","Nicaragua",122334,4642.69625070461,52
+"NE","Protection, Assistance and Solutions","Niger",57751392.77,916.199691229844,52
+"PK","Protection, Assistance and Solutions","Pakistan",48090550.61,4601.68894303447,64
+"PW","Protection, Assistance and Solutions","Palau",1e+05,15095.9881392384,15
+"PA","Protection, Assistance and Solutions","Panama",42000,19416.2320170688,50
+"PG","Protection, Assistance and Solutions","Papua New Guinea",194190.2,2539.08170427106,29
+"PY","Protection, Assistance and Solutions","Paraguay",406670.27,8092.67275665026,59
+"PE","Protection, Assistance and Solutions","Peru",80142.1,11774.1883417434,44
+"PH","Protection, Assistance and Solutions","Philippines",8428918.08,6535.87586381471,44
+"RW","Protection, Assistance and Solutions","Rwanda",2053813.37,1473.63801166274,79
+"WS","Protection, Assistance and Solutions","Samoa",150000,5768.98576875814,29
+"SN","Protection, Assistance and Solutions","Senegal",4647692.79,2241.99652516017,48
+"SL","Protection, Assistance and Solutions","Sierra Leone",3837090.8,1544.18323961817,49
+"SB","Protection, Assistance and Solutions","Solomon Islands",1e+05,2068.96106224769,28
+"ZA","Protection, Assistance and Solutions","South Africa",377167.31,12506.7494760135,33
+"SS","Protection, Assistance and Solutions","South Sudan",79639347.86,2029.74531174235,62
+"LK","Protection, Assistance and Solutions","Sri Lanka",1594571.95,9738.11917417447,76
+"SD","Protection, Assistance and Solutions","Sudan",96094501.24,3372.97200690061,81
+"SD","Protection, Assistance and Solutions","Sudan, Pre-2011 Election",17624552.96,3372.97200690061,81
+"SZ","Protection, Assistance and Solutions","Swaziland",9976,6685.33811734131,78
+"TZ","Protection, Assistance and Solutions","Tanzania",1e+05,1775.05858032604,55
+"TH","Protection, Assistance and Solutions","Thailand",137.33,14393.5307035565,64
+"UG","Protection, Assistance and Solutions","Uganda",10477787.43,1413.15463013282,58
+"UZ","Protection, Assistance and Solutions","Uzbekistan",75000,5168.28603457276,95
+"VN","Protection, Assistance and Solutions","Vietnam",8092.33,5294.43986933333,84
+"YE","Protection, Assistance and Solutions","Yemen",46987893.99,3959.29188263281,76
+"ZM","Protection, Assistance and Solutions","Zambia",-303.81,3925.46238739217,61
+"ZW","Protection, Assistance and Solutions","Zimbabwe",20857187.18,1832.08324432316,73
+"AF","Rule of Law and Human Rights","Afghanistan",33339657.95,1946.19380603184,66
+"AL","Rule of Law and Human Rights","Albania",2056420,10374.015637354,49
+"AO","Rule of Law and Human Rights","Angola",15385.24,7736.17468163313,69
+"AM","Rule of Law and Human Rights","Armenia",452966.2,7776.2860430691,62
+"AZ","Rule of Law and Human Rights","Azerbaijan",976360.28,17143.4792308476,84
+"BD","Rule of Law and Human Rights","Bangladesh",3128443,2948.01488976887,54
+"BO","Rule of Law and Human Rights","Bolivia",-65121,6131.06168856137,48
+"BA","Rule of Law and Human Rights","Bosnia and Herzegovina",1423785.2,9535.5397905006,50
+"BR","Rule of Law and Human Rights","Brazil",170098,15037.4574693446,45
+"BF","Rule of Law and Human Rights","Burkina Faso",304915.03,1514.18622141102,44
+"BI","Rule of Law and Human Rights","Burundi",252904,771.71542954274,74
+"KH","Rule of Law and Human Rights","Cambodia",692142.2,3041.07709021153,66
+"CN","Rule of Law and Human Rights","China",1881925.21,11906.5073908244,84
+"CO","Rule of Law and Human Rights","Colombia",8891453.73,12423.9230431716,54
+"CD","Rule of Law and Human Rights","Congo, Democratic Republic of",2657857,809.217533443526,79
+"CG","Rule of Law and Human Rights","Congo, Republic of",-0.21,5868.48055101527,57
+"CI","Rule of Law and Human Rights","Cote d`Ivoire",1200563.9,3210.45464438594,55
+"DO","Rule of Law and Human Rights","Dominican Republic",1347190.66,12186.388560558,41
+"EC","Rule of Law and Human Rights","Ecuador",543466,10889.9891270309,62
+"EG","Rule of Law and Human Rights","Egypt",921555.39,11089.2111773151,68
+"SV","Rule of Law and Human Rights","El Salvador",1397485.41,7764.14274460714,39
+"ET","Rule of Law and Human Rights","Ethiopia",633293.79,1380.00026448913,81
+"GM","Rule of Law and Human Rights","Gambia, The",3904.29,1661.42355399369,83
+"GE","Rule of Law and Human Rights","Georgia",5312998.17,7176.44362639204,47
+"GT","Rule of Law and Human Rights","Guatemala",7999576.17,7296.59257319642,60
+"GN","Rule of Law and Human Rights","Guinea",106762.8,1253.08489968023,64
+"GY","Rule of Law and Human Rights","Guyana",2641.72,6545.93223037864,34
+"HT","Rule of Law and Human Rights","Haiti",4453263.6,1703.02934940234,50
+"ID","Rule of Law and Human Rights","Indonesia",7944081.3,9561.12635183094,49
+"IQ","Rule of Law and Human Rights","Iraq",16829255,14951.0776794266,69
+"JM","Rule of Law and Human Rights","Jamaica",310283.23,8891.89154248426,17
+"JO","Rule of Law and Human Rights","Jordan",5030518.27,11784.5316899264,68
+"KZ","Rule of Law and Human Rights","Kazakhstan",743575.97,23211.312265251,85
+"KE","Rule of Law and Human Rights","Kenya",5509.56,2794.98131908266,57
+"KG","Rule of Law and Human Rights","Kyrgyz Republic",1306116.6,3212.93244119764,66
+"LS","Rule of Law and Human Rights","Lesotho",4742046.86,2576.25549405545,47
+"LR","Rule of Law and Human Rights","Liberia",3062445.08,877.995480056484,58
+"LY","Rule of Law and Human Rights","Libya",780433.7,21046.3473378789,62
+"MK","Rule of Law and Human Rights","Macedonia",1070587,11611.97490519,57
+"MR","Rule of Law and Human Rights","Mauritania",191918.76,3042.83849410548,48
+"MX","Rule of Law and Human Rights","Mexico",15787798.38,16463.392673388,61
+"MD","Rule of Law and Human Rights","Moldova",1604795.7,4670.35017000535,53
+"ME","Rule of Law and Human Rights","Montenegro",441001,14131.6050000068,39
+"NP","Rule of Law and Human Rights","Nepal",1381379.81,2244.79962842638,55
+"NI","Rule of Law and Human Rights","Nicaragua",156601.84,4642.69625070461,52
+"NG","Rule of Law and Human Rights","Nigeria",1400.97,5602.40879552442,51
+"PK","Rule of Law and Human Rights","Pakistan",1595558.52,4601.68894303447,64
+"PA","Rule of Law and Human Rights","Panama",39744.7,19416.2320170688,50
+"PH","Rule of Law and Human Rights","Philippines",3142484.26,6535.87586381471,44
+"RW","Rule of Law and Human Rights","Rwanda",4656.97,1473.63801166274,79
+"RS","Rule of Law and Human Rights","Serbia",5378593.2,13020.1042341046,37
+"ZA","Rule of Law and Human Rights","South Africa",21371.76,12506.7494760135,33
+"LK","Rule of Law and Human Rights","Sri Lanka",2053520.49,9738.11917417447,76
+"TZ","Rule of Law and Human Rights","Tanzania",630225.81,1775.05858032604,55
+"UA","Rule of Law and Human Rights","Ukraine",4690371.2,8789.98200051008,63
+"UZ","Rule of Law and Human Rights","Uzbekistan",548411.26,5168.28603457276,95
+"VE","Rule of Law and Human Rights","Venezuela",160193.7,18198.3700172414,78
+"VN","Rule of Law and Human Rights","Vietnam",183144.85,5294.43986933333,84
+"YE","Rule of Law and Human Rights","Yemen",139457,3959.29188263281,76
+"ZW","Rule of Law and Human Rights","Zimbabwe",1514711.6,1832.08324432316,73
+"AF","Social Assistance","Afghanistan",30412287.2,1946.19380603184,66
+"AL","Social Assistance","Albania",112473.19,10374.015637354,49
+"AO","Social Assistance","Angola",93644,7736.17468163313,69
+"AM","Social Assistance","Armenia",2063537.84,7776.2860430691,62
+"AZ","Social Assistance","Azerbaijan",95602.53,17143.4792308476,84
+"BD","Social Assistance","Bangladesh",579505,2948.01488976887,54
+"BJ","Social Assistance","Benin",146947.87,1790.75363672991,36
+"BA","Social Assistance","Bosnia and Herzegovina",237418.7,9535.5397905006,50
+"BW","Social Assistance","Botswana",41368.64,15751.9022060328,41
+"BF","Social Assistance","Burkina Faso",63811.39,1514.18622141102,44
+"BI","Social Assistance","Burundi",47471.1,771.71542954274,74
+"CM","Social Assistance","Cameroon",23319.99,2830.12953902169,66
+"CV","Social Assistance","Cape Verde",59250.21,6416.317160988,27
+"CF","Social Assistance","Central African Republic",232.96,603.742959794015,77
+"TD","Social Assistance","Chad",57023.95,2088.5918355193,75
+"CN","Social Assistance","China",2609727.27,11906.5073908244,84
+"CO","Social Assistance","Colombia",13596776.63,12423.9230431716,54
+"KM","Social Assistance","Comoros",15172.05,1446.17149475964,49
+"CD","Social Assistance","Congo, Democratic Republic of",13043975.02,809.217533443526,79
+"CG","Social Assistance","Congo, Republic of",74034.81,5868.48055101527,57
+"CI","Social Assistance","Cote d`Ivoire",24789.75,3210.45464438594,55
+"DJ","Social Assistance","Djibouti",25176.78,2998.74058570901,75
+"EC","Social Assistance","Ecuador",272879,10889.9891270309,62
+"EG","Social Assistance","Egypt",11329578,11089.2111773151,68
+"SV","Social Assistance","El Salvador",8294903,7764.14274460714,39
+"GQ","Social Assistance","Equatorial Guinea",23909.79,33768.289851408,90
+"ET","Social Assistance","Ethiopia",1441511.71,1380.00026448913,81
+"GA","Social Assistance","Gabon",28102.44,19264.3359398216,70
+"GM","Social Assistance","Gambia, The",30259.43,1661.42355399369,83
+"GE","Social Assistance","Georgia",1693133.25,7176.44362639204,47
+"GH","Social Assistance","Ghana",643780.87,3992.09003884754,28
+"GT","Social Assistance","Guatemala",364238.9,7296.59257319642,60
+"GN","Social Assistance","Guinea",139256.92,1253.08489968023,64
+"GW","Social Assistance","Guinea-Bissau",13086.27,1407.02677224558,67
+"HT","Social Assistance","Haiti",2980952.54,1703.02934940234,50
+"IN","Social Assistance","India",79036.2,5411.61554629181,39
+"IQ","Social Assistance","Iraq",910965.36,14951.0776794266,69
+"JM","Social Assistance","Jamaica",143041.4,8891.89154248426,17
+"JO","Social Assistance","Jordan",8146500.47,11784.5316899264,68
+"KZ","Social Assistance","Kazakhstan",222738,23211.312265251,85
+"KE","Social Assistance","Kenya",2879104.9,2794.98131908266,57
+"KG","Social Assistance","Kyrgyz Republic",850890.4,3212.93244119764,66
+"LA","Social Assistance","Laos",49240.2,4822.02207368924,84
+"LB","Social Assistance","Lebanon",-1644.55,17173.8422362362,53
+"LS","Social Assistance","Lesotho",14038.38,2576.25549405545,47
+"LR","Social Assistance","Liberia",294135,877.995480056484,58
+"MK","Social Assistance","Macedonia",177395.3,11611.97490519,57
+"MW","Social Assistance","Malawi",31125.64,780.003107565482,51
+"ML","Social Assistance","Mali",52725.26,1641.83452128449,37
+"MR","Social Assistance","Mauritania",32514.62,3042.83849410548,48
+"MU","Social Assistance","Mauritius",15703.95,17199.5294237952,30
+"MD","Social Assistance","Moldova",49365.5,4670.35017000535,53
+"MN","Social Assistance","Mongolia",3862257.25,9434.9627693653,37
+"ME","Social Assistance","Montenegro",427446.45,14131.6050000068,39
+"MA","Social Assistance","Morocco",12622785.98,7198.16371916788,66
+"MZ","Social Assistance","Mozambique",33281.22,1105.07349763736,45
+"NA","Social Assistance","Namibia",23953,9583.18475656442,31
+"NP","Social Assistance","Nepal",378115.3,2244.79962842638,55
+"NE","Social Assistance","Niger",30392.94,916.199691229844,52
+"NG","Social Assistance","Nigeria",24214.1,5602.40879552442,51
+"PK","Social Assistance","Pakistan",8263993,4601.68894303447,64
+"PY","Social Assistance","Paraguay",130011.1,8092.67275665026,59
+"PE","Social Assistance","Peru",865859.8,11774.1883417434,44
+"PH","Social Assistance","Philippines",142024,6535.87586381471,44
+"RW","Social Assistance","Rwanda",34668.03,1473.63801166274,79
+"ST","Social Assistance","Sao Tome and Principe",24287.96,2971.06707976578,28
+"SN","Social Assistance","Senegal",41438.37,2241.99652516017,48
+"RS","Social Assistance","Serbia",64496.96,13020.1042341046,37
+"SC","Social Assistance","Seychelles",4166.93,24587.4855947311,52
+"SL","Social Assistance","Sierra Leone",43899.77,1544.18323961817,49
+"ZA","Social Assistance","South Africa",1556648.53,12506.7494760135,33
+"SS","Social Assistance","South Sudan",5287120,2029.74531174235,62
+"LK","Social Assistance","Sri Lanka",1494617.5,9738.11917417447,76
+"SZ","Social Assistance","Swaziland",28460.71,6685.33811734131,78
+"TJ","Social Assistance","Tajikistan",132678,2512.24756635,80
+"TZ","Social Assistance","Tanzania",5332979.41,1775.05858032604,55
+"TG","Social Assistance","Togo",27008.71,1390.51971095318,65
+"UG","Social Assistance","Uganda",321292.47,1413.15463013282,58
+"VN","Social Assistance","Vietnam",3818549.1,5294.43986933333,84
+"ZM","Social Assistance","Zambia",557989.42,3925.46238739217,61
+"ZW","Social Assistance","Zimbabwe",5302606.83,1832.08324432316,73
+"ZM","Social Policies, Regulations, and Systems","Zambia",867154.81,3925.46238739217,61
+"BO","Social Services","Bolivia",124781,6131.06168856137,48
+"BR","Social Services","Brazil",477852,15037.4574693446,45
+"CV","Social Services","Cabo Verde",101374.7,6416.317160988,27
+"CO","Social Services","Colombia",401926,12423.9230431716,54
+"DO","Social Services","Dominican Republic",149087,12186.388560558,41
+"EC","Social Services","Ecuador",45892,10889.9891270309,62
+"SV","Social Services","El Salvador",2926256.29,7764.14274460714,39
+"GH","Social Services","Ghana",-102539.16,3992.09003884754,28
+"GT","Social Services","Guatemala",257822,7296.59257319642,60
+"HT","Social Services","Haiti",212221,1703.02934940234,50
+"HN","Social Services","Honduras",177155,4592.59339927457,64
+"ID","Social Services","Indonesia",20412000,9561.12635183094,49
+"MW","Social Services","Malawi",52770.76,780.003107565482,51
+"ML","Social Services","Mali",315684.65,1641.83452128449,37
+"MX","Social Services","Mexico",170514,16463.392673388,61
+"NI","Social Services","Nicaragua",422495,4642.69625070461,52
+"NG","Social Services","Nigeria",64485.36,5602.40879552442,51
+"PA","Social Services","Panama",37300,19416.2320170688,50
+"PY","Social Services","Paraguay",265502,8092.67275665026,59
+"PE","Social Services","Peru",570229,11774.1883417434,44
+"PH","Social Services","Philippines",24136608.03,6535.87586381471,44
+"UG","Social Services","Uganda",76373.86,1413.15463013282,58
+"UY","Social Services","Uruguay",134198,19594.3695607622,26
+"ZW","Social Services","Zimbabwe",61875,1832.08324432316,73
+"AF","Stabilization Operations and Security Sector Reform","Afghanistan",161403,1946.19380603184,66
+"AM","Stabilization Operations and Security Sector Reform","Armenia",419340.9,7776.2860430691,62
+"AZ","Stabilization Operations and Security Sector Reform","Azerbaijan",875890,17143.4792308476,84
+"BD","Stabilization Operations and Security Sector Reform","Bangladesh",1004898,2948.01488976887,54
+"BA","Stabilization Operations and Security Sector Reform","Bosnia and Herzegovina",503099.6,9535.5397905006,50
+"CO","Stabilization Operations and Security Sector Reform","Colombia",12773864.3,12423.9230431716,54
+"CD","Stabilization Operations and Security Sector Reform","Congo, Democratic Republic of",3529577,809.217533443526,79
+"SV","Stabilization Operations and Security Sector Reform","El Salvador",450300,7764.14274460714,39
+"GT","Stabilization Operations and Security Sector Reform","Guatemala",912001,7296.59257319642,60
+"IQ","Stabilization Operations and Security Sector Reform","Iraq",-2673039.4,14951.0776794266,69
+"NP","Stabilization Operations and Security Sector Reform","Nepal",16956,2244.79962842638,55
+"RW","Stabilization Operations and Security Sector Reform","Rwanda",6105,1473.63801166274,79
+"LK","Stabilization Operations and Security Sector Reform","Sri Lanka",4141276.38,9738.11917417447,76
+"SD","Stabilization Operations and Security Sector Reform","Sudan, Pre-2011 Election",911.24,3372.97200690061,81
+"AF","Trade and Investment","Afghanistan",27354369.21,1946.19380603184,66
+"AL","Trade and Investment","Albania",332929,10374.015637354,49
+"AO","Trade and Investment","Angola",183248,7736.17468163313,69
+"AM","Trade and Investment","Armenia",2127647.37,7776.2860430691,62
+"AZ","Trade and Investment","Azerbaijan",2082088.24,17143.4792308476,84
+"BJ","Trade and Investment","Benin",49576.4,1790.75363672991,36
+"BA","Trade and Investment","Bosnia and Herzegovina",1207349.36,9535.5397905006,50
+"BF","Trade and Investment","Burkina Faso",9546.68,1514.18622141102,44
+"CO","Trade and Investment","Colombia",1214161.4,12423.9230431716,54
+"DO","Trade and Investment","Dominican Republic",151.2,12186.388560558,41
+"EG","Trade and Investment","Egypt",146532.2,11089.2111773151,68
+"SV","Trade and Investment","El Salvador",4954764.44,7764.14274460714,39
+"ET","Trade and Investment","Ethiopia",102292.88,1380.00026448913,81
+"GE","Trade and Investment","Georgia",2734997,7176.44362639204,47
+"GH","Trade and Investment","Ghana",53138.19,3992.09003884754,28
+"GT","Trade and Investment","Guatemala",1630025.5,7296.59257319642,60
+"GY","Trade and Investment","Guyana",224864,6545.93223037864,34
+"HT","Trade and Investment","Haiti",711451.57,1703.02934940234,50
+"ID","Trade and Investment","Indonesia",1421282.91,9561.12635183094,49
+"JM","Trade and Investment","Jamaica",4829.95,8891.89154248426,17
+"JO","Trade and Investment","Jordan",5133453.62,11784.5316899264,68
+"KZ","Trade and Investment","Kazakhstan",472646,23211.312265251,85
+"KG","Trade and Investment","Kyrgyz Republic",7e+05,3212.93244119764,66
+"LA","Trade and Investment","Laos",1463196.84,4822.02207368924,84
+"LB","Trade and Investment","Lebanon",319133,17173.8422362362,53
+"LR","Trade and Investment","Liberia",1755960,877.995480056484,58
+"MW","Trade and Investment","Malawi",113611.67,780.003107565482,51
+"ML","Trade and Investment","Mali",409707.86,1641.83452128449,37
+"MA","Trade and Investment","Morocco",526482.68,7198.16371916788,66
+"MZ","Trade and Investment","Mozambique",500000.2,1105.07349763736,45
+"NA","Trade and Investment","Namibia",17453.1,9583.18475656442,31
+"NP","Trade and Investment","Nepal",843000,2244.79962842638,55
+"NE","Trade and Investment","Niger",331.81,916.199691229844,52
+"NG","Trade and Investment","Nigeria",2054981.81,5602.40879552442,51
+"PK","Trade and Investment","Pakistan",1835661.54,4601.68894303447,64
+"PY","Trade and Investment","Paraguay",7585,8092.67275665026,59
+"PE","Trade and Investment","Peru",5525424.1,11774.1883417434,44
+"PH","Trade and Investment","Philippines",6540.33,6535.87586381471,44
+"RW","Trade and Investment","Rwanda",10500.56,1473.63801166274,79
+"SN","Trade and Investment","Senegal",157476.8,2241.99652516017,48
+"ZA","Trade and Investment","South Africa",5860127.3,12506.7494760135,33
+"TJ","Trade and Investment","Tajikistan",116889.2,2512.24756635,80
+"TZ","Trade and Investment","Tanzania",1408681.46,1775.05858032604,55
+"UG","Trade and Investment","Uganda",1413545.82,1413.15463013282,58
+"UA","Trade and Investment","Ukraine",2047201.57,8789.98200051008,63
+"UZ","Trade and Investment","Uzbekistan",144666.83,5168.28603457276,95
+"VN","Trade and Investment","Vietnam",1486384.53,5294.43986933333,84
+"ZM","Trade and Investment","Zambia",3036686.27,3925.46238739217,61
+"AL","Transnational Crime","Albania",256819,10374.015637354,49
+"AZ","Transnational Crime","Azerbaijan",32199.7,17143.4792308476,84
+"BD","Transnational Crime","Bangladesh",1083514.03,2948.01488976887,54
+"BW","Transnational Crime","Botswana",162017.54,15751.9022060328,41
+"KH","Transnational Crime","Cambodia",1563955.16,3041.07709021153,66
+"CD","Transnational Crime","Congo, Democratic Republic of",2713,809.217533443526,79
+"CR","Transnational Crime","Costa Rica",262677.82,13875.8563536715,18
+"EC","Transnational Crime","Ecuador",246407,10889.9891270309,62
+"GH","Transnational Crime","Ghana",242446.73,3992.09003884754,28
+"GT","Transnational Crime","Guatemala",705496.51,7296.59257319642,60
+"HT","Transnational Crime","Haiti",143124.07,1703.02934940234,50
+"HN","Transnational Crime","Honduras",178244.36,4592.59339927457,64
+"KZ","Transnational Crime","Kazakhstan",94425.42,23211.312265251,85
+"KG","Transnational Crime","Kyrgyz Republic",194632,3212.93244119764,66
+"MD","Transnational Crime","Moldova",294175,4670.35017000535,53
+"MA","Transnational Crime","Morocco",74265.3,7198.16371916788,66
+"NP","Transnational Crime","Nepal",446141,2244.79962842638,55
+"PH","Transnational Crime","Philippines",169689.22,6535.87586381471,44
+"TJ","Transnational Crime","Tajikistan",213254.58,2512.24756635,80
+"TM","Transnational Crime","Turkmenistan",173486.77,14004.160056658,95
+"UG","Transnational Crime","Uganda",1.16,1413.15463013282,58
+"UA","Transnational Crime","Ukraine",1044210,8789.98200051008,63
+"UZ","Transnational Crime","Uzbekistan",464020.8,5168.28603457276,95
+"VN","Transnational Crime","Vietnam",248755.49,5294.43986933333,84
+"YE","Transnational Crime","Yemen",44.41,3959.29188263281,76
+"AF","Tuberculosis","Afghanistan",6596272.23,1946.19380603184,66
+"AM","Tuberculosis","Armenia",173819.9,7776.2860430691,62
+"AZ","Tuberculosis","Azerbaijan",373999.8,17143.4792308476,84
+"BD","Tuberculosis","Bangladesh",12466167.51,2948.01488976887,54
+"BO","Tuberculosis","Bolivia",486731.78,6131.06168856137,48
+"BW","Tuberculosis","Botswana",96069.12,15751.9022060328,41
+"BR","Tuberculosis","Brazil",3568208.55,15037.4574693446,45
+"KH","Tuberculosis","Cambodia",5353313.82,3041.07709021153,66
+"CN","Tuberculosis","China",5680.66,11906.5073908244,84
+"CD","Tuberculosis","Congo, Democratic Republic of",10259256.44,809.217533443526,79
+"DJ","Tuberculosis","Djibouti",1567.35,2998.74058570901,75
+"DO","Tuberculosis","Dominican Republic",601224.9,12186.388560558,41
+"ET","Tuberculosis","Ethiopia",8932289.59,1380.00026448913,81
+"GE","Tuberculosis","Georgia",774216,7176.44362639204,47
+"GH","Tuberculosis","Ghana",1950000,3992.09003884754,28
+"HT","Tuberculosis","Haiti",2958734.14,1703.02934940234,50
+"IN","Tuberculosis","India",6600811.26,5411.61554629181,39
+"ID","Tuberculosis","Indonesia",11969801.37,9561.12635183094,49
+"KZ","Tuberculosis","Kazakhstan",1241150.25,23211.312265251,85
+"KE","Tuberculosis","Kenya",411696.4,2794.98131908266,57
+"KG","Tuberculosis","Kyrgyz Republic",1357565.68,3212.93244119764,66
+"LR","Tuberculosis","Liberia",90406,877.995480056484,58
+"MW","Tuberculosis","Malawi",1555505.88,780.003107565482,51
+"MX","Tuberculosis","Mexico",916770,16463.392673388,61
+"MZ","Tuberculosis","Mozambique",10435612.96,1105.07349763736,45
+"NG","Tuberculosis","Nigeria",14246921.32,5602.40879552442,51
+"PK","Tuberculosis","Pakistan",134051.73,4601.68894303447,64
+"PE","Tuberculosis","Peru",237777.23,11774.1883417434,44
+"PH","Tuberculosis","Philippines",6342058.43,6535.87586381471,44
+"SN","Tuberculosis","Senegal",8654.37,2241.99652516017,48
+"ZA","Tuberculosis","South Africa",13676341.7,12506.7494760135,33
+"SS","Tuberculosis","South Sudan",1267008.5,2029.74531174235,62
+"TJ","Tuberculosis","Tajikistan",1436708.79,2512.24756635,80
+"TZ","Tuberculosis","Tanzania",6178035,1775.05858032604,55
+"TM","Tuberculosis","Turkmenistan",813336.71,14004.160056658,95
+"UG","Tuberculosis","Uganda",3148411.65,1413.15463013282,58
+"UA","Tuberculosis","Ukraine",4288479.5,8789.98200051008,63
+"UZ","Tuberculosis","Uzbekistan",2324893.83,5168.28603457276,95
+"ZM","Tuberculosis","Zambia",4657858.81,3925.46238739217,61
+"ZW","Tuberculosis","Zimbabwe",3486306.02,1832.08324432316,73
+"AF","Water Supply and Sanitation","Afghanistan",22749058.08,1946.19380603184,66
+"AO","Water Supply and Sanitation","Angola",666710.41,7736.17468163313,69
+"AM","Water Supply and Sanitation","Armenia",510139.77,7776.2860430691,62
+"BD","Water Supply and Sanitation","Bangladesh",977698.55,2948.01488976887,54
+"BO","Water Supply and Sanitation","Bolivia",311.08,6131.06168856137,48
+"CV","Water Supply and Sanitation","Cabo Verde",57421.81,6416.317160988,27
+"CV","Water Supply and Sanitation","Cape Verde",897811.66,6416.317160988,27
+"CD","Water Supply and Sanitation","Congo, Democratic Republic of",5263796.18,809.217533443526,79
+"CG","Water Supply and Sanitation","Congo, Republic of",375.54,5868.48055101527,57
+"DJ","Water Supply and Sanitation","Djibouti",7938.35,2998.74058570901,75
+"DO","Water Supply and Sanitation","Dominican Republic",134966,12186.388560558,41
+"EC","Water Supply and Sanitation","Ecuador",41359.33,10889.9891270309,62
+"EG","Water Supply and Sanitation","Egypt",16106933.3,11089.2111773151,68
+"ET","Water Supply and Sanitation","Ethiopia",7626616.1,1380.00026448913,81
+"GA","Water Supply and Sanitation","Gabon",9.39,19264.3359398216,70
+"GH","Water Supply and Sanitation","Ghana",4636186.25,3992.09003884754,28
+"IN","Water Supply and Sanitation","India",227295.3,5411.61554629181,39
+"ID","Water Supply and Sanitation","Indonesia",8890797.69,9561.12635183094,49
+"JO","Water Supply and Sanitation","Jordan",54941796.04,11784.5316899264,68
+"KE","Water Supply and Sanitation","Kenya",2104801.4,2794.98131908266,57
+"LB","Water Supply and Sanitation","Lebanon",8654260.6,17173.8422362362,53
+"LS","Water Supply and Sanitation","Lesotho",61181043.82,2576.25549405545,47
+"LR","Water Supply and Sanitation","Liberia",5602711,877.995480056484,58
+"MG","Water Supply and Sanitation","Madagascar",1768580.2,1413.99075673979,63
+"MW","Water Supply and Sanitation","Malawi",315682,780.003107565482,51
+"ML","Water Supply and Sanitation","Mali",3549788.31,1641.83452128449,37
+"MR","Water Supply and Sanitation","Mauritania",9974.04,3042.83849410548,48
+"MD","Water Supply and Sanitation","Moldova",254367.2,4670.35017000535,53
+"MZ","Water Supply and Sanitation","Mozambique",99054524.14,1105.07349763736,45
+"NP","Water Supply and Sanitation","Nepal",317784.7,2244.79962842638,55
+"NI","Water Supply and Sanitation","Nicaragua",177159.1,4642.69625070461,52
+"NE","Water Supply and Sanitation","Niger",134178.35,916.199691229844,52
+"NG","Water Supply and Sanitation","Nigeria",5374336.2,5602.40879552442,51
+"PK","Water Supply and Sanitation","Pakistan",853352.6,4601.68894303447,64
+"PE","Water Supply and Sanitation","Peru",496938,11774.1883417434,44
+"PH","Water Supply and Sanitation","Philippines",1253034.3,6535.87586381471,44
+"RW","Water Supply and Sanitation","Rwanda",1098236,1473.63801166274,79
+"SN","Water Supply and Sanitation","Senegal",3685727.31,2241.99652516017,48
+"ZA","Water Supply and Sanitation","South Africa",3530.36,12506.7494760135,33
+"SS","Water Supply and Sanitation","South Sudan",697480,2029.74531174235,62
+"LK","Water Supply and Sanitation","Sri Lanka",665916.4,9738.11917417447,76
+"SD","Water Supply and Sanitation","Sudan",10123.42,3372.97200690061,81
+"SD","Water Supply and Sanitation","Sudan, Pre-2011 Election",2058273.63,3372.97200690061,81
+"TJ","Water Supply and Sanitation","Tajikistan",204180,2512.24756635,80
+"TZ","Water Supply and Sanitation","Tanzania",20681016.8,1775.05858032604,55
+"UG","Water Supply and Sanitation","Uganda",4740846.4,1413.15463013282,58
+"UA","Water Supply and Sanitation","Ukraine",-9239.18,8789.98200051008,63
+"YE","Water Supply and Sanitation","Yemen",-625,3959.29188263281,76
+"ZM","Water Supply and Sanitation","Zambia",10803134.68,3925.46238739217,61
+"ZW","Water Supply and Sanitation","Zimbabwe",89656.1,1832.08324432316,73
