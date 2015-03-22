@@ -18,7 +18,7 @@ fad_2013 <- fad %>%
         Disbursed.Amount != 0,
         ## in addition to countries, this data set includes money disbursed to regions or regional offices 
         ## i'm most interested in disbursement directly to countries so i'm excluding anything to a region, worldwide project, or office
-        !grepl("Region|Regional|World|Worldwid|Office", Recipient.Country.Region)) %>%
+        !grepl("Region|Regional|World|Global|Office", Recipient.Country.Region)) %>%
   group_by(Objective.Name, Recipient.Country.Region) %>%
   summarise(Total.Disbursed = sum(Disbursed.Amount))
 
