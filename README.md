@@ -1,4 +1,4 @@
-# U.S. Foreign Assistance Data by Objective Merged with GPD per Capita and Freedom House Press 
+# U.S. Foreign Assistance by Objective and Country
 
 I'm interested in how the theory of U.S. aid aligns with the realities on the ground. To take a closer look at this, I've pulled together a dataset that includes all bilateral U.S. foreign assistance by stated objective and country for the year 2013. To contextualize this data a bit, I've added GDP per capita from the World Bank as a measure of the recipient country's economic standing and Freedom House' press freedom score as a measure of level of freedom of expression in a country. 
 
