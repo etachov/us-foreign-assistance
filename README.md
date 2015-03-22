@@ -1,6 +1,6 @@
 # U.S. Foreign Assistance by Objective and Country
 
-I'm interested in how the theory of U.S. aid aligns with the realities on the ground. To take a closer look at this, I've pulled together a dataset that includes all bilateral U.S. foreign assistance by stated objective and country for the year 2013. To contextualize this data a bit, I've added GDP per capita from the World Bank as a measure of the recipient country's economic standing and Freedom House' press freedom score as a measure of level of freedom of expression in a country. 
+I'm interested in how the theory of U.S. aid aligns with the realities on the ground. To take a closer look at this, I've pulled together a dataset that includes all bilateral U.S. foreign assistance by stated objective and country for 2013 from foreignassistance.gov. To contextualize this data a bit, I've added GDP per capita from the World Bank as a measure of the recipient country's economic standing and Freedom House's press freedom score as a measure of level of freedom of expression in the country. 
 
 From here, I can explore questions like Does U.S. security assistance go disproportionately to country's that are trying to silence dissent? Is there a relationship between a country's economic need and the level of economic development assistance? Etc.
 
@@ -24,4 +24,4 @@ Gist of the data: https://gist.github.com/etachov/41f90a611d61b041b1eb
 
 Original data source: http://www.foreignassistance.gov/web/Documents/Full_ForeignAssistanceData
 
-Code of cleaning, filtering and merging the data: https://github.com/etachov/us-foreign-assistance/blob/master/fad_2013_fin.R
+Code for cleaning, filtering and merging the data: https://github.com/etachov/us-foreign-assistance/blob/master/fad_2013_fin.R
