@@ -4,7 +4,7 @@ I'm interested in how the theory of U.S. aid aligns with the realities on the gr
 
 From here, I can explore questions like Does U.S. security assistance go disproportionately to country's that are trying to silence dissent? Is there a relationship between a country's economic need and the level of economic development assistance? Etc.
 
-**Defitions**:
+**Definitions**:
 
 *country.code*: Iso2c country code to enable merging
 
