@@ -6,12 +6,17 @@ From here, I can explore questions like Does U.S. security assistance go disprop
 
 **Defitions**:
 
-country.code: Iso2c country code to enable merging
-country: Country name as used by the U.S. government
-objective.name: Stated objective for aid listed the U.S. government
-total.disbursed: Total value of aid disbursed in 2013 in 2013 U.S. dollars
-gdp.percapita.ppp: Gross domestic product per capita using purchasing power parity in 2013 U.S. dollars
-fh.fotp: Freedom House press freedom index score in 2013. Higher score = more suppression of freedom of speech.
+*country.code*: Iso2c country code to enable merging
+
+*country*: Country name as used by the U.S. government
+
+*objective.name*: Stated objective for aid listed the U.S. government
+
+*total.disbursed*: Total value of aid disbursed in 2013 in 2013 U.S. dollars
+
+*gdp.percapita.ppp*: Gross domestic product per capita using purchasing power parity in 2013 U.S. dollars
+
+*fh.fotp*: Freedom House press freedom index score in 2013. Higher score = more suppression of freedom of speech.
 
 **Links**:
 
