@@ -22,6 +22,6 @@ From here, I can explore questions like Does U.S. security assistance go disprop
 
 Gist of the data: https://gist.github.com/etachov/41f90a611d61b041b1eb
 
-Original data source: http://www.foreignassistance.gov/web/Documents/Full_ForeignAssistanceData
+Original data source: http://catalog.data.gov/dataset/foreign-assistance-dashboard/resource/e2affc25-ddba-4d93-8453-4c1f48b25ecc
 
 Code for cleaning, filtering and merging the data: https://github.com/etachov/us-foreign-assistance/blob/master/fad_2013_fin.R
